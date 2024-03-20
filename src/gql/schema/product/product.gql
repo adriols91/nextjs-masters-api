@@ -1,0 +1,34 @@
+type Product {
+  id: ID!
+  name: String!
+  description: String!
+  price: Int!
+  popularity: Int!
+  rating: Float
+  colors: [Color!]!
+  sizes: [Size!]!
+  categories: [Category!]!
+  collections: [Collection!]!
+  images(limit: Int, offset: Int): [Image!]!
+  reviews(limit: Int, orderBy: [ReviewOrderByInput!]): [Review!]!
+  createdAt: DateTime!
+  updatedAt: DateTime!
+}
+
+type ProductConnection {
+  items: [Product!]!
+  totalCount: Int!
+}
+
+input ProductFilterInput {
+  categoryId: String
+  collectionId: String
+  nameContains: String
+  relatedTo: String
+}
+
+input ProductsOrderByInput {
+  popularity: Sort
+  price: Sort
+  rating: Sort
+}

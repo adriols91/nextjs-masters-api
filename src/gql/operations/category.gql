@@ -1,0 +1,12 @@
+query getCategories {
+  categories(limit: 10, offset: 0) {
+    items {
+      id
+      name
+      slug
+      createdAt
+      updatedAt
+    }
+    totalCount
+  }
+}

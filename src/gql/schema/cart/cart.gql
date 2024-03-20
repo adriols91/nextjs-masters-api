@@ -1,0 +1,15 @@
+type Cart {
+  id: ID!
+  email: String
+  items: [Item!]!
+  createdAt: DateTime!
+  updatedAt: DateTime!
+}
+
+input CartCreateInput {
+  email: String
+}
+
+type CartCreatePayload {
+  cart: Cart
+}

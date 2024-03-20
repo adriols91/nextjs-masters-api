@@ -1,0 +1,27 @@
+type Review {
+  id: ID!
+  author: String!
+  email: String!
+  title: String!
+  description: String!
+  rating: Float!
+  createdAt: DateTime!
+  updatedAt: DateTime!
+}
+
+input ReviewCreateInput {
+  productId: ID!
+  author: String!
+  email: String!
+  title: String!
+  description: String!
+  rating: Float!
+}
+
+input ReviewOrderByInput {
+  createdAt: Sort
+}
+
+type ReviewCreatePayload {
+  review: Review
+}

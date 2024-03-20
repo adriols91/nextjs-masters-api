@@ -1,0 +1,15 @@
+type Category {
+  id: ID!
+  name: String!
+  slug: String!
+  description: String!
+  image: Image
+  products: [Product!]!
+  createdAt: DateTime!
+  updatedAt: DateTime!
+}
+
+type CategoryConnection {
+  items: [Category!]!
+  totalCount: Int!
+}

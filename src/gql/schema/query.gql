@@ -1,0 +1,22 @@
+type Query {
+  cart(id: ID!): Cart
+
+  item(cartId: ID!, productId: ID!): Item
+
+  order(id: ID!): Order
+  orders(limit: Int, offset: Int): OrderConnection!
+
+  categories(limit: Int, offset: Int): CategoryConnection!
+  category(id: ID, slug: String): Category
+
+  collections(limit: Int, offset: Int): CollectionConnection!
+  collection(id: ID, slug: String): Collection
+
+  products(
+    limit: Int
+    offset: Int
+    filter: ProductFilterInput
+    orderBy: [ProductsOrderByInput!]
+  ): ProductConnection!
+  product(id: ID!): Product
+}

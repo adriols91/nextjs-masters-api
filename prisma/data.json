@@ -1,0 +1,2985 @@
+{
+  "categories": [
+    {
+      "id": "dbe738f4-9201-403f-b88c-c6cd214b3b8b",
+      "name": "T-shirts",
+      "slug": "t-shirts",
+      "description": "Explore our T-shirts collection for the latest styles and trends.",
+      "createdAt": "1991-12-12T18:59:27",
+      "updatedAt": "2023-04-10T12:41:21",
+      "image": "69a4e563-231b-459c-91ea-1760bdeaa6f3"
+    },
+    {
+      "id": "1ddd14a9-d6d7-41be-95c1-e185e031f9f8",
+      "name": "Jeans",
+      "slug": "jeans",
+      "description": "Explore our Jeans collection for the latest styles and trends.",
+      "createdAt": "1977-06-21T07:59:00",
+      "updatedAt": "2004-01-25T19:57:54",
+      "image": "f0f1f79e-2613-469d-8063-a14103a36177"
+    },
+    {
+      "id": "c771152c-f4ef-4a50-9cbb-5bc5fc67d23b",
+      "name": "Dresses",
+      "slug": "dresses",
+      "description": "Explore our Dresses collection for the latest styles and trends.",
+      "createdAt": "2012-06-11T00:08:45",
+      "updatedAt": "1977-08-09T22:25:16",
+      "image": "c1050974-3976-4738-a786-4ee1a68caa6c"
+    },
+    {
+      "id": "c50663dc-1e6d-46f5-a6a5-965473669740",
+      "name": "Jackets",
+      "slug": "jackets",
+      "description": "Explore our Jackets collection for the latest styles and trends.",
+      "createdAt": "1989-07-08T05:09:35",
+      "updatedAt": "2020-12-18T19:18:21",
+      "image": "173d9f33-136e-4958-bcf9-4ee443762282"
+    },
+    {
+      "id": "7376385e-7ef0-4425-a429-2058ca725683",
+      "name": "Shoes",
+      "slug": "shoes",
+      "description": "Explore our Shoes collection for the latest styles and trends.",
+      "createdAt": "2012-04-19T18:48:43",
+      "updatedAt": "2022-06-20T12:30:10",
+      "image": "bdaae5e1-0a9e-47ff-98a4-61b7c3652acd"
+    },
+    {
+      "id": "f65351ba-f17c-4dbd-921f-da8c4e656108",
+      "name": "Accessories",
+      "slug": "accessories",
+      "description": "Explore our Accessories collection for the latest styles and trends.",
+      "createdAt": "1999-04-01T11:10:19",
+      "updatedAt": "2022-06-02T17:19:46",
+      "image": "47fe71c9-8c7b-4ed0-9a66-7bfee4e06361"
+    },
+    {
+      "id": "9f6ee718-cbe1-4491-bdf8-00f6a55c5e74",
+      "name": "Sportswear",
+      "slug": "sportswear",
+      "description": "Explore our Sportswear collection for the latest styles and trends.",
+      "createdAt": "1972-01-28T06:53:10",
+      "updatedAt": "1985-12-11T20:34:09",
+      "image": "a137e446-f66f-4681-a4bc-4cd4138943c3"
+    },
+    {
+      "id": "ff73984e-ac08-471f-b605-97aafbdf8260",
+      "name": "Beachwear",
+      "slug": "beachwear",
+      "description": "Explore our Beachwear collection for the latest styles and trends.",
+      "createdAt": "1972-01-28T06:53:10",
+      "updatedAt": "1985-12-11T20:34:09",
+      "image": "51982ae4-4a62-4c54-865f-3332cd1842bb"
+    },
+    {
+      "id": "55a2c922-b6f7-4b17-9f69-1bbe2751d574",
+      "name": "Sweaters",
+      "slug": "sweaters",
+      "description": "Explore our Sweaters collection for the latest styles and trends.",
+      "createdAt": "1983-08-20T19:56:51",
+      "updatedAt": "2019-01-24T22:32:26",
+      "image": "89d743e0-5bcc-44ba-b185-634580a01478"
+    },
+    {
+      "id": "e2b37d7f-b0a1-4498-a05f-99c845e1117e",
+      "name": "Shorts",
+      "slug": "shorts",
+      "description": "Explore our Shorts collection for the latest styles and trends.",
+      "createdAt": "2006-09-23T15:57:45",
+      "updatedAt": "2023-06-01T07:41:24",
+      "image": "58bd85ae-a2a9-4ec9-b799-c7b010c304f2"
+    },
+    {
+      "id": "25fedded-8263-4d02-9f0c-6f199179a5df",
+      "name": "Outerwear",
+      "slug": "outerwear",
+      "description": "Explore our Outerwear collection for the latest styles and trends.",
+      "createdAt": "2020-06-08T20:11:16",
+      "updatedAt": "2005-11-14T12:26:47",
+      "image": "8ca95c24-2a1a-4a81-805a-9a684f165f40"
+    }
+  ],
+  "collections": [
+    {
+      "id": "255b004d-10ea-4485-bc18-3b6b11997216",
+      "name": "Summer 2024",
+      "slug": "summer-2024",
+      "description": "Discover the exclusive Summer 2024 collection, featuring unique designs and premium quality.",
+      "createdAt": "1970-04-22T05:10:10",
+      "updatedAt": "2013-07-02T06:41:03",
+      "image": "bbb8543a-e4a2-4b33-8558-34f3e2d0816d"
+    },
+    {
+      "id": "98258a37-5120-4965-b60b-90c245e73c39",
+      "name": "Winter 2024",
+      "slug": "winter-2024",
+      "description": "Discover the exclusive Winter 2024 collection, featuring unique designs and premium quality.",
+      "createdAt": "1995-02-15T18:33:28",
+      "updatedAt": "1980-03-20T17:17:44",
+      "image": "c1273942-be1a-4bac-8057-ebdd3c80887c"
+    },
+    {
+      "id": "4b06fdc4-39ac-4878-8f08-7df01e8ca9f9",
+      "name": "Spring 2024",
+      "slug": "spring-2024",
+      "description": "Discover the exclusive Spring 2024 collection, featuring unique designs and premium quality.",
+      "createdAt": "2003-11-14T00:35:13",
+      "updatedAt": "2002-10-27T23:48:49",
+      "image": "d70674b6-d29b-4423-b0a2-ceb85def6b11"
+    },
+    {
+      "id": "7b334bdf-e14f-41cf-8fea-c4654d5df370",
+      "name": "Autumn 2024",
+      "slug": "autumn-2024",
+      "description": "Discover the exclusive Autumn 2024 collection, featuring unique designs and premium quality.",
+      "createdAt": "2022-01-04T01:54:42",
+      "updatedAt": "2013-12-02T17:47:50",
+      "image": "a843a133-a593-4bec-b111-d7d4b8f258f8"
+    },
+    {
+      "id": "bbfd1021-2b96-4a62-9786-27ed41f9a4cc",
+      "name": "Casual Wear",
+      "slug": "casual-wear",
+      "description": "Discover the exclusive Casual Wear collection, featuring unique designs and premium quality.",
+      "createdAt": "2018-10-31T06:51:42",
+      "updatedAt": "1992-10-24T14:57:56",
+      "image": "c1b2d190-d8d7-409b-bbbe-f562f54a5b95"
+    },
+    {
+      "id": "493bf8cb-1b68-4d14-92e8-06e8cbcf660a",
+      "name": "Formal Wear",
+      "slug": "formal-wear",
+      "description": "Discover the exclusive Formal Wear collection, featuring unique designs and premium quality.",
+      "createdAt": "1973-11-07T04:50:27",
+      "updatedAt": "2004-03-04T16:09:11",
+      "image": "87210cd7-8068-4b4c-afe5-0a31ea081072"
+    },
+    {
+      "id": "7482be93-6e95-4fcd-8f4b-10b3e733afd1",
+      "name": "Sport Collection",
+      "slug": "sport-collection",
+      "description": "Discover the exclusive Sport Collection collection, featuring unique designs and premium quality.",
+      "createdAt": "1988-04-03T22:03:53",
+      "updatedAt": "1978-12-22T07:25:16",
+      "image": "570707d7-0978-4dc9-b63c-ab02472619de"
+    },
+    {
+      "id": "38a76a3f-b499-40c4-a806-be7acd54ec55",
+      "name": "Eco Collection",
+      "slug": "eco-collection",
+      "description": "Discover the exclusive Eco Collection collection, featuring unique designs and premium quality.",
+      "createdAt": "1980-05-19T18:19:10",
+      "updatedAt": "1982-02-05T16:11:26",
+      "image": "23fb81f7-168a-4781-bdb3-6cc0e08f1814"
+    },
+    {
+      "id": "4335d2cd-cd4c-495c-bc1f-ad9cc625001f",
+      "name": "Limited Edition",
+      "slug": "limited-edition",
+      "description": "Discover the exclusive Limited Edition collection, featuring unique designs and premium quality.",
+      "createdAt": "1993-03-11T03:59:37",
+      "updatedAt": "1981-10-13T16:06:52",
+      "image": "e100fd59-532f-4f49-9717-335399f4ba75"
+    },
+    {
+      "id": "b6ec77e6-0c5e-4a4d-bd35-84ebb557f517",
+      "name": "Sale",
+      "slug": "sale",
+      "description": "Discover the exclusive Sale collection, featuring unique designs and premium quality.",
+      "createdAt": "1985-12-18T18:06:05",
+      "updatedAt": "1989-02-16T19:51:03",
+      "image": "162f5e36-3fa3-4853-a805-86747836b802"
+    }
+  ],
+  "colors": [
+    {
+      "id": "174bfea0-5dd1-40c6-b3b0-72c0d1405f30",
+      "name": "Red",
+      "createdAt": "2019-12-27T00:00:00",
+      "updatedAt": "2006-08-04T00:00:00"
+    },
+    {
+      "id": "ef14f375-b851-453d-a446-31f5599e25b7",
+      "name": "Blue",
+      "createdAt": "2004-12-14T00:00:00",
+      "updatedAt": "2020-08-04T00:00:00"
+    },
+    {
+      "id": "8bc92688-9d1f-4cd2-aab5-5bcf73b5ef96",
+      "name": "Green",
+      "createdAt": "2005-08-01T00:00:00",
+      "updatedAt": "2007-10-11T00:00:00"
+    },
+    {
+      "id": "b94cb2a9-b49b-479f-ad89-22039b8ddcb1",
+      "name": "Yellow",
+      "createdAt": "2003-02-23T00:00:00",
+      "updatedAt": "2003-08-04T00:00:00"
+    },
+    {
+      "id": "3d19c310-11be-422f-ba66-557c77629913",
+      "name": "Black",
+      "createdAt": "2016-02-20T00:00:00",
+      "updatedAt": "2013-01-15T00:00:00"
+    },
+    {
+      "id": "795edbc0-a641-4512-bdf5-b6ec54af69ae",
+      "name": "White",
+      "createdAt": "2020-12-08T00:00:00",
+      "updatedAt": "2011-04-20T00:00:00"
+    },
+    {
+      "id": "b3fac8ca-5232-4c03-9c80-a63b2bd1339b",
+      "name": "Pink",
+      "createdAt": "2005-04-20T00:00:00",
+      "updatedAt": "2013-06-22T00:00:00"
+    },
+    {
+      "id": "d94bb79f-2dae-4da1-8279-a20610165ced",
+      "name": "Orange",
+      "createdAt": "2009-01-30T00:00:00",
+      "updatedAt": "2021-08-28T00:00:00"
+    },
+    {
+      "id": "7edf7aac-7f70-4939-a4dc-4b21d29097f4",
+      "name": "Purple",
+      "createdAt": "2015-11-11T00:00:00",
+      "updatedAt": "2006-01-13T00:00:00"
+    },
+    {
+      "id": "c020b0d3-9c9d-4bf9-a388-cf59b453b66c",
+      "name": "Grey",
+      "createdAt": "2018-04-15T00:00:00",
+      "updatedAt": "2018-08-13T00:00:00"
+    }
+  ],
+  "sizes": [
+    {
+      "id": "6d6f8322-6265-44aa-8ae9-5ed404acfce2",
+      "name": "XS",
+      "createdAt": "2001-08-01T10:56:35",
+      "updatedAt": "1990-08-01T17:20:32"
+    },
+    {
+      "id": "71c0daf1-9013-4531-afd5-12197bfbfca2",
+      "name": "S",
+      "createdAt": "2022-07-06T13:54:44",
+      "updatedAt": "2003-08-18T18:32:10"
+    },
+    {
+      "id": "a8d1857f-f50b-47e4-b74e-5b8d4216b277",
+      "name": "M",
+      "createdAt": "2006-05-22T14:34:17",
+      "updatedAt": "1992-03-03T14:11:48"
+    },
+    {
+      "id": "2ccf2b39-ad56-425f-9521-7dc9007ed414",
+      "name": "L",
+      "createdAt": "2008-12-02T11:48:59",
+      "updatedAt": "1975-02-11T12:26:42"
+    },
+    {
+      "id": "7a60bc41-f3eb-4cfa-8631-5799cd5078a2",
+      "name": "XL",
+      "createdAt": "1993-09-18T05:34:58",
+      "updatedAt": "2016-11-10T18:41:29"
+    },
+    {
+      "id": "a73a7c9d-26b3-4d99-aa17-bbef404ff8aa",
+      "name": "XXL",
+      "createdAt": "1998-12-28T20:31:49",
+      "updatedAt": "2006-07-23T03:39:44"
+    }
+  ],
+  "images": [
+    {
+      "id": "69a4e563-231b-459c-91ea-1760bdeaa6f3",
+      "url": "/categories/t-shirts.webp",
+      "alt": "Image of T-shirts category",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "f0f1f79e-2613-469d-8063-a14103a36177",
+      "url": "/categories/jeans.webp",
+      "alt": "Image of Jeans category",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "c1050974-3976-4738-a786-4ee1a68caa6c",
+      "url": "/categories/dresses.webp",
+      "alt": "Image of Dresses category",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "173d9f33-136e-4958-bcf9-4ee443762282",
+      "url": "/categories/jackets.webp",
+      "alt": "Image of Jackets category",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "bdaae5e1-0a9e-47ff-98a4-61b7c3652acd",
+      "url": "/categories/shoes.webp",
+      "alt": "Image of Shoes category",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "47fe71c9-8c7b-4ed0-9a66-7bfee4e06361",
+      "url": "/categories/accessories.webp",
+      "alt": "Image of Accessories category",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "a137e446-f66f-4681-a4bc-4cd4138943c3",
+      "url": "/categories/sportswear.webp",
+      "alt": "Image of Sportswear category",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "51982ae4-4a62-4c54-865f-3332cd1842bb",
+      "url": "/categories/beachwear.webp",
+      "alt": "Image of Beachwear category",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "89d743e0-5bcc-44ba-b185-634580a01478",
+      "url": "/categories/sweaters.webp",
+      "alt": "Image of Sweaters category",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "58bd85ae-a2a9-4ec9-b799-c7b010c304f2",
+      "url": "/categories/shorts.webp",
+      "alt": "Image of Shorts category",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "8ca95c24-2a1a-4a81-805a-9a684f165f40",
+      "url": "/categories/outerwear.webp",
+      "alt": "Image of Outerwear category",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "bbb8543a-e4a2-4b33-8558-34f3e2d0816d",
+      "url": "/collections/summer-2024.webp",
+      "alt": "Image of Summer 2024 collection",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "c1273942-be1a-4bac-8057-ebdd3c80887c",
+      "url": "/collections/winter-2024.webp",
+      "alt": "Image of Winter 2024 collection",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "d70674b6-d29b-4423-b0a2-ceb85def6b11",
+      "url": "/collections/spring-2024.webp",
+      "alt": "Image of Spring 2024 collection",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "a843a133-a593-4bec-b111-d7d4b8f258f8",
+      "url": "/collections/autumn-2024.webp",
+      "alt": "Image of Autumn 2024 collection",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "c1b2d190-d8d7-409b-bbbe-f562f54a5b95",
+      "url": "/collections/casual-wear.webp",
+      "alt": "Image of Casual Wear collection",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "87210cd7-8068-4b4c-afe5-0a31ea081072",
+      "url": "/collections/formal-wear.webp",
+      "alt": "Image of Formal Wear collection",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "570707d7-0978-4dc9-b63c-ab02472619de",
+      "url": "/collections/sport-collection.webp",
+      "alt": "Image of Sport Collection collection",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "23fb81f7-168a-4781-bdb3-6cc0e08f1814",
+      "url": "/collections/eco-collection.webp",
+      "alt": "Image of Eco Collection collection",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "e100fd59-532f-4f49-9717-335399f4ba75",
+      "url": "/collections/limited-edition.webp",
+      "alt": "Image of Limited Edition collection",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "162f5e36-3fa3-4853-a805-86747836b802",
+      "url": "/collections/sale.webp",
+      "alt": "Image of Sale collection",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "03411deb-11e3-416d-b570-4c736f04485f",
+      "url": "/products/slim-jeans.webp",
+      "alt": "Image of Slim Jeans",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "6366048c-98bb-4695-9345-179cfab071d8",
+      "url": "/products/basic-tee.webp",
+      "alt": "Image of Basic Tee",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "5028b9ac-5ba9-4502-bbad-07d00a7e5b49",
+      "url": "/products/summer-maxi-dress.webp",
+      "alt": "Image of Summer Maxi Dress",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "ffbbc9b9-7cf3-40ec-9c46-b14a43e87f3b",
+      "url": "/products/classic-leather-jacket.webp",
+      "alt": "Image of Classic Leather Jacket",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "c8ac3ae3-277e-46ea-ad4a-48ceb23b4c14",
+      "url": "/products/running-sneakers.webp",
+      "alt": "Image of Running Sneakers",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "6e890933-ea46-443b-bb07-d2c3c56c3a7c",
+      "url": "/products/elegant-silk-scarf.webp",
+      "alt": "Image of Elegant Silk Scarf",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "df75b1f4-767d-48ec-a341-2db893d74853",
+      "url": "/products/active-gym-shorts.webp",
+      "alt": "Image of Active Gym Shorts",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "9e1b8fbd-1db3-4ea1-bae2-89b9ed2bec56",
+      "url": "/products/cozy-knit-sweater.webp",
+      "alt": "Image of Cozy Knit Sweater",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "4f029037-0213-4f74-92b5-a259e2c4e732",
+      "url": "/products/casual-denim-shorts.webp",
+      "alt": "Image of Casual Denim Shorts",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "d6ae5e8c-df4c-4d72-87dd-65bcab1642b2",
+      "url": "/products/heavy-winter-coat.webp",
+      "alt": "Image of Heavy Winter Coat",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "b5b6394d-25fb-4f2c-bdf4-17dc9c991c84",
+      "url": "/products/professional-blazer.webp",
+      "alt": "Image of Professional Blazer",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "34adb275-2e90-4eb0-9c81-6519c2286c0f",
+      "url": "/products/light-linen-shirt.webp",
+      "alt": "Image of Light Linen Shirt",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "02eb8ed9-a6ce-495d-b632-dbab0e047fc5",
+      "url": "/products/pique-polo-shirt.webp",
+      "alt": "Image of Pique Polo Shirt",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "3e37aaa5-2011-4b7c-ad30-3baf7c9e2341",
+      "url": "/products/utility-cargo-pants.webp",
+      "alt": "Image of Utility Cargo Pants",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "8f217a1b-f068-40bf-9737-535dfd5b219a",
+      "url": "/products/stretch-yoga-pants.webp",
+      "alt": "Image of Stretch Yoga Pants",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "490b1e4d-755e-453c-818e-d1020a6c3613",
+      "url": "/products/flowy-maxi-skirt.webp",
+      "alt": "Image of Flowy Maxi Skirt",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "a28b4d54-4c59-48bb-8e02-0c009bf47201",
+      "url": "/products/beach-ready-bikini.webp",
+      "alt": "Image of Beach-ready Bikini",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "88a24ed3-c2c8-4033-8178-4b6a88381654",
+      "url": "/products/athletic-track-jacket.webp",
+      "alt": "Image of Athletic Track Jacket",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "4b6929a9-92a5-48b5-903d-f9d4bb9420a5",
+      "url": "/products/comfy-hoodie.webp",
+      "alt": "Image of Comfy Hoodie",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "4e8c41c5-69cc-4ca7-8b51-f465f45abd29",
+      "url": "/products/warm-beanie.webp",
+      "alt": "Image of Warm Beanie",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "5ee997c8-8f0d-4e3a-bb5f-caa48fad8a6a",
+      "url": "/products/everyday-sneakers.webp",
+      "alt": "Image of Everyday Sneakers",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "9c345c47-c93f-4efa-83ec-39b6c357bf33",
+      "url": "/products/chic-high-heels.webp",
+      "alt": "Image of Chic High Heels",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "fb331c18-6188-4586-8212-cadee9a92fd9",
+      "url": "/products/versatile-ankle-boots.webp",
+      "alt": "Image of Versatile Ankle Boots",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "18e813d2-ce08-487d-b712-afabf6870673",
+      "url": "/products/summer-sandals.webp",
+      "alt": "Image of Summer Sandals",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "b29f19ef-06d4-4c20-9df4-fd5e4bc229ba",
+      "url": "/products/classic-loafers.webp",
+      "alt": "Image of Classic Loafers",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "bd97f1cd-c5da-497f-9c08-7614cae9b926",
+      "url": "/products/timeless-wrist-watch.webp",
+      "alt": "Image of Timeless Wrist Watch",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "be8c9cb1-3f28-4f75-be3a-3b511cc3b026",
+      "url": "/products/stylish-sunglasses.webp",
+      "alt": "Image of Stylish Sunglasses",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "4b60e789-a259-49ea-9450-dc1c8abc7d5d",
+      "url": "/products/durable-leather-belt.webp",
+      "alt": "Image of Durable Leather Belt",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "9de6eb2f-85d0-4469-99ad-9e2af0cdd643",
+      "url": "/products/spacious-tote-bag.webp",
+      "alt": "Image of Spacious Tote Bag",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "a75b1e25-74f9-421a-a15d-bfec77db027d",
+      "url": "/products/evening-clutch.webp",
+      "alt": "Image of Evening Clutch",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "0c005377-627d-496e-a1aa-28ccce67895f",
+      "url": "/products/soft-cardigan.webp",
+      "alt": "Image of Soft Cardigan",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "93cb1f02-5607-4107-8b0c-2721db9f5e8c",
+      "url": "/products/insulated-puffer-jacket.webp",
+      "alt": "Image of Insulated Puffer Jacket",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "ccd52b69-678a-4ad2-a471-2a4627765148",
+      "url": "/products/waterproof-raincoat.webp",
+      "alt": "Image of Waterproof Raincoat",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "1549a800-667a-4109-b669-46ebf4579f2f",
+      "url": "/products/fleece-pullover.webp",
+      "alt": "Image of Fleece Pullover",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "56b03e2d-78e1-47e9-9ea2-3cc22bc280d8",
+      "url": "/products/sleek-turtleneck.webp",
+      "alt": "Image of Sleek Turtleneck",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "fb5d919b-9f60-420b-ae5e-592216ff3be7",
+      "url": "/products/trendy-mesh-top.webp",
+      "alt": "Image of Trendy Mesh Top",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "8320b35b-cea4-474e-a7f2-df325fdf3048",
+      "url": "/products/floral-midi-dress.webp",
+      "alt": "Image of Floral Midi Dress",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "8734df4d-735f-48f3-97cf-bdd354148fe4",
+      "url": "/products/tailored-cropped-pants.webp",
+      "alt": "Image of Tailored Cropped Pants",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "83ea4e70-d08b-4154-9d2c-78c344a95018",
+      "url": "/products/one-piece-jumpsuit.webp",
+      "alt": "Image of One-piece Jumpsuit",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "3423a8e2-0dd9-4133-a3d1-088a0ae912c9",
+      "url": "/products/casual-romper.webp",
+      "alt": "Image of Casual Romper",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "a5dc22f6-a31f-4991-9374-100aaedecc80",
+      "url": "/products/formal-bow-tie.webp",
+      "alt": "Image of Formal Bow Tie",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "1ec1538e-7bf3-4177-bbec-5169c5b4bef7",
+      "url": "/products/elegant-cufflinks.webp",
+      "alt": "Image of Elegant Cufflinks",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "df1dc1cf-effd-4669-86ea-1ce2a2b070ce",
+      "url": "/products/luxury-leather-gloves.webp",
+      "alt": "Image of Luxury Leather Gloves",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "60b14988-77d3-49f1-b59f-718abcb2a9b8",
+      "url": "/products/warm-wool-scarf.webp",
+      "alt": "Image of Warm Wool Scarf",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "800bbdd1-4c02-49f7-8af6-b4e67bc932df",
+      "url": "/products/comfy-knee-socks.webp",
+      "alt": "Image of Comfy Knee Socks",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "a98b98da-c83a-4688-93b3-a38e32a76282",
+      "url": "/products/sporty-baseball-cap.webp",
+      "alt": "Image of Sporty Baseball Cap",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "c8672397-cb1e-4678-9239-315ab3860c88",
+      "url": "/products/flexible-leggings.webp",
+      "alt": "Image of Flexible Leggings",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "f2aafb19-4a81-43af-b5be-c3690ec890ff",
+      "url": "/products/cycling-shorts.webp",
+      "alt": "Image of Cycling Shorts",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "90ae2c3b-4402-4b43-bba4-a1d9b9979999",
+      "url": "/products/breathable-tank-top.webp",
+      "alt": "Image of Breathable Tank Top",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    },
+    {
+      "id": "4300c460-a31f-4c46-b2d7-ba9d0031f4e6",
+      "url": "/products/layering-vest.webp",
+      "alt": "Image of Layering Vest",
+      "createdAt": "2024-02-21T12:59:23",
+      "updatedAt": "2024-02-21T12:59:23"
+    }
+  ],
+  "products": [
+    {
+      "id": "0997b18f-c719-46f5-85af-91e228cf31c9",
+      "name": "Slim Jeans",
+      "slug": "slim-jeans-0",
+      "description": "Experience the unique style and comfort of our slim jeans.",
+      "price": 6550,
+      "rating": 4.9,
+      "colors": [
+        "7edf7aac-7f70-4939-a4dc-4b21d29097f4",
+        "7edf7aac-7f70-4939-a4dc-4b21d29097f4"
+      ],
+      "sizes": [
+        "6d6f8322-6265-44aa-8ae9-5ed404acfce2",
+        "7a60bc41-f3eb-4cfa-8631-5799cd5078a2",
+        "7a60bc41-f3eb-4cfa-8631-5799cd5078a2",
+        "2ccf2b39-ad56-425f-9521-7dc9007ed414",
+        "a73a7c9d-26b3-4d99-aa17-bbef404ff8aa"
+      ],
+      "categories": ["1ddd14a9-d6d7-41be-95c1-e185e031f9f8"],
+      "collections": [
+        "bbfd1021-2b96-4a62-9786-27ed41f9a4cc",
+        "4b06fdc4-39ac-4878-8f08-7df01e8ca9f9"
+      ],
+      "images": ["03411deb-11e3-416d-b570-4c736f04485f"],
+      "reviews": [
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "a420cb8a-ebc7-409f-80fa-6a6f3bb18778",
+          "author": "Ashley Vargas",
+          "email": "ashley.vargas@hotmail.com",
+          "title": "Love the Slim Jeans"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "a5231353-02ca-48e6-8098-1c0d328c96a3",
+          "author": "John Hamilton",
+          "email": "john.hamilton@yahoo.com",
+          "title": "Love the Slim Jeans"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "2cc6cd3d-7f19-49cd-ad98-ec62f8332124",
+          "author": "Christopher Cunningham",
+          "email": "christopher.cunningham@hotmail.com",
+          "title": "Love the Slim Jeans"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "b5f93f6d-d630-49ae-8b1c-01a5a3d14d51",
+          "author": "Kelly Werner",
+          "email": "kelly.werner@yahoo.com",
+          "title": "Love the Slim Jeans"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "072da357-34c6-4bea-8760-5353c0b487c8",
+          "author": "Daniel Campbell",
+          "email": "daniel.campbell@gmail.com",
+          "title": "Love the Slim Jeans"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "3edca3b2-a9d0-4f47-8e9f-4f0e34a2f97d",
+          "author": "Mary Martin",
+          "email": "mary.martin@yahoo.com",
+          "title": "Love the Slim Jeans"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "f97c4e6b-8155-4416-a93b-17db401a06f0",
+          "author": "Tyler Jones",
+          "email": "tyler.jones@hotmail.com",
+          "title": "Love the Slim Jeans"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "f5a76ee0-63c7-4fc2-8e04-a7b800475024",
+          "author": "Kevin Mcclain",
+          "email": "kevin.mcclain@gmail.com",
+          "title": "Love the Slim Jeans"
+        },
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "3c13c2a6-21c0-4e80-94e7-2fafc342e0dd",
+          "author": "Melissa Clarke",
+          "email": "melissa.clarke@yahoo.com",
+          "title": "Really Enjoy the Slim Jeans"
+        }
+      ],
+      "createdAt": "2009-03-04T00:00:00",
+      "updatedAt": "2009-03-11T00:00:00"
+    },
+    {
+      "id": "99d8daab-c675-42fb-a2a4-634ce2ca1607",
+      "name": "Basic Tee",
+      "slug": "basic-tee-1",
+      "description": "Experience the unique style and comfort of our basic tee.",
+      "price": 9980,
+      "rating": null,
+      "colors": [
+        "d94bb79f-2dae-4da1-8279-a20610165ced",
+        "c020b0d3-9c9d-4bf9-a388-cf59b453b66c"
+      ],
+      "sizes": [
+        "2ccf2b39-ad56-425f-9521-7dc9007ed414",
+        "a8d1857f-f50b-47e4-b74e-5b8d4216b277",
+        "a8d1857f-f50b-47e4-b74e-5b8d4216b277",
+        "a73a7c9d-26b3-4d99-aa17-bbef404ff8aa"
+      ],
+      "categories": ["dbe738f4-9201-403f-b88c-c6cd214b3b8b"],
+      "collections": [
+        "255b004d-10ea-4485-bc18-3b6b11997216",
+        "38a76a3f-b499-40c4-a806-be7acd54ec55",
+        "bbfd1021-2b96-4a62-9786-27ed41f9a4cc"
+      ],
+      "images": ["6366048c-98bb-4695-9345-179cfab071d8"],
+      "reviews": [],
+      "createdAt": "2012-06-30T00:00:00",
+      "updatedAt": "2012-08-22T00:00:00"
+    },
+    {
+      "id": "b6366336-41bf-40cc-b20b-57d5fb02f86c",
+      "name": "Summer Maxi Dress",
+      "slug": "summer-maxi-dress-2",
+      "description": "Experience the unique style and comfort of our summer maxi dress.",
+      "price": 3960,
+      "rating": 4.3,
+      "colors": [
+        "c020b0d3-9c9d-4bf9-a388-cf59b453b66c",
+        "795edbc0-a641-4512-bdf5-b6ec54af69ae",
+        "ef14f375-b851-453d-a446-31f5599e25b7"
+      ],
+      "sizes": [
+        "a73a7c9d-26b3-4d99-aa17-bbef404ff8aa",
+        "71c0daf1-9013-4531-afd5-12197bfbfca2",
+        "2ccf2b39-ad56-425f-9521-7dc9007ed414",
+        "a73a7c9d-26b3-4d99-aa17-bbef404ff8aa"
+      ],
+      "categories": ["c771152c-f4ef-4a50-9cbb-5bc5fc67d23b"],
+      "collections": [
+        "255b004d-10ea-4485-bc18-3b6b11997216",
+        "38a76a3f-b499-40c4-a806-be7acd54ec55"
+      ],
+      "images": ["5028b9ac-5ba9-4502-bbad-07d00a7e5b49"],
+      "reviews": [
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "bd246e28-b4c9-47d9-8605-a407ecae134f",
+          "author": "Geoffrey Medina",
+          "email": "geoffrey.medina@yahoo.com",
+          "title": "Really Enjoy the Summer Maxi Dress"
+        },
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "b765ac59-27e3-4584-921f-9beec8142ac6",
+          "author": "Richard Russo",
+          "email": "richard.russo@yahoo.com",
+          "title": "Really Enjoy the Summer Maxi Dress"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "22e9fcda-a11f-41b1-a6a0-7ab342225d74",
+          "author": "Elizabeth Shields",
+          "email": "elizabeth.shields@hotmail.com",
+          "title": "Love the Summer Maxi Dress"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "589a26e1-928d-4514-b093-034f59cc4e9f",
+          "author": "Brenda Lopez",
+          "email": "brenda.lopez@gmail.com",
+          "title": "Love the Summer Maxi Dress"
+        },
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "9c3c423b-88e7-4297-ae57-b5f7963fa86e",
+          "author": "Cynthia Ortega",
+          "email": "cynthia.ortega@hotmail.com",
+          "title": "Really Enjoy the Summer Maxi Dress"
+        },
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "81e8416d-fb9d-462d-bc66-2c47239f028a",
+          "author": "Morgan Evans",
+          "email": "morgan.evans@gmail.com",
+          "title": "Really Enjoy the Summer Maxi Dress"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "f3fd9067-ebfd-4a35-ac0f-e051ed08e3ad",
+          "author": "Colleen Andrews",
+          "email": "colleen.andrews@hotmail.com",
+          "title": "Love the Summer Maxi Dress"
+        },
+        {
+          "rating": 4,
+          "description": "Decent, but there's room for improvement.",
+          "id": "af986499-b4a4-40fd-be2c-a7c2c6fe24ca",
+          "author": "Andrew Welch",
+          "email": "andrew.welch@hotmail.com",
+          "title": "Like the Summer Maxi Dress"
+        },
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "4ae290be-4534-4180-a356-376af952664b",
+          "author": "Chris Johnson",
+          "email": "chris.johnson@yahoo.com",
+          "title": "Really Enjoy the Summer Maxi Dress"
+        },
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "fae8a28f-5552-4d32-b60e-1999da28d431",
+          "author": "John Owens",
+          "email": "john.owens@hotmail.com",
+          "title": "Really Enjoy the Summer Maxi Dress"
+        },
+        {
+          "rating": 4,
+          "description": "Decent, but there's room for improvement.",
+          "id": "d417c5c2-120f-40cb-a292-9f580d99cf77",
+          "author": "Megan Stevenson",
+          "email": "megan.stevenson@yahoo.com",
+          "title": "Like the Summer Maxi Dress"
+        },
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "7ddf2d2b-500a-4d6f-a661-79bf7792a322",
+          "author": "Daniel Moore",
+          "email": "daniel.moore@gmail.com",
+          "title": "Really Enjoy the Summer Maxi Dress"
+        },
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "eca44f57-fe54-4daa-aea9-85e663b11616",
+          "author": "Daniel Powell",
+          "email": "daniel.powell@gmail.com",
+          "title": "Really Enjoy the Summer Maxi Dress"
+        }
+      ],
+      "createdAt": "2021-04-26T00:00:00",
+      "updatedAt": "2021-10-08T00:00:00"
+    },
+    {
+      "id": "a1d9ae17-e547-4374-8418-7ce0a88e52ba",
+      "name": "Classic Leather Jacket",
+      "slug": "classic-leather-jacket-3",
+      "description": "Experience the unique style and comfort of our classic leather jacket.",
+      "price": 25800,
+      "rating": null,
+      "colors": ["b94cb2a9-b49b-479f-ad89-22039b8ddcb1"],
+      "sizes": ["a8d1857f-f50b-47e4-b74e-5b8d4216b277"],
+      "categories": [
+        "c50663dc-1e6d-46f5-a6a5-965473669740",
+        "25fedded-8263-4d02-9f0c-6f199179a5df"
+      ],
+      "collections": [
+        "7b334bdf-e14f-41cf-8fea-c4654d5df370",
+        "b6ec77e6-0c5e-4a4d-bd35-84ebb557f517"
+      ],
+      "images": ["ffbbc9b9-7cf3-40ec-9c46-b14a43e87f3b"],
+      "reviews": [],
+      "createdAt": "2006-09-01T00:00:00",
+      "updatedAt": "2007-04-03T00:00:00"
+    },
+    {
+      "id": "05ec5f3c-0c74-4134-a1d7-6c2ef97f20b4",
+      "name": "Running Sneakers",
+      "slug": "running-sneakers-4",
+      "description": "Experience the unique style and comfort of our running sneakers.",
+      "price": 6430,
+      "rating": 3.5,
+      "colors": [
+        "ef14f375-b851-453d-a446-31f5599e25b7",
+        "3d19c310-11be-422f-ba66-557c77629913",
+        "b3fac8ca-5232-4c03-9c80-a63b2bd1339b"
+      ],
+      "sizes": [
+        "7a60bc41-f3eb-4cfa-8631-5799cd5078a2",
+        "6d6f8322-6265-44aa-8ae9-5ed404acfce2"
+      ],
+      "categories": [
+        "7376385e-7ef0-4425-a429-2058ca725683",
+        "9f6ee718-cbe1-4491-bdf8-00f6a55c5e74"
+      ],
+      "collections": ["7482be93-6e95-4fcd-8f4b-10b3e733afd1"],
+      "images": ["c8ac3ae3-277e-46ea-ad4a-48ceb23b4c14"],
+      "reviews": [
+        {
+          "rating": 3,
+          "description": "Decent, but there's room for improvement.",
+          "id": "4d25cb30-d512-485f-8c45-333c843ab57d",
+          "author": "Melinda Harding",
+          "email": "melinda.harding@gmail.com",
+          "title": "Think It's Okay the Running Sneakers"
+        },
+        {
+          "rating": 4,
+          "description": "Decent, but there's room for improvement.",
+          "id": "62e31d97-85b8-423e-84b0-8f144ec23ddc",
+          "author": "Judy Williams",
+          "email": "judy.williams@yahoo.com",
+          "title": "Like the Running Sneakers"
+        },
+        {
+          "rating": 3,
+          "description": "Decent, but there's room for improvement.",
+          "id": "af65b658-35ff-483a-83e9-f95a0c0dac15",
+          "author": "Catherine Gonzalez",
+          "email": "catherine.gonzalez@hotmail.com",
+          "title": "Think It's Okay the Running Sneakers"
+        },
+        {
+          "rating": 4,
+          "description": "Decent, but there's room for improvement.",
+          "id": "662691cc-fb7f-44b3-9ed7-5cb0cd9585d2",
+          "author": "Scott Hays",
+          "email": "scott.hays@yahoo.com",
+          "title": "Like the Running Sneakers"
+        },
+        {
+          "rating": 4,
+          "description": "Decent, but there's room for improvement.",
+          "id": "58b4894b-c278-4f6f-99e1-334b681eacf6",
+          "author": "Norman Paul",
+          "email": "norman.paul@yahoo.com",
+          "title": "Like the Running Sneakers"
+        }
+      ],
+      "createdAt": "2021-06-29T00:00:00",
+      "updatedAt": "2022-01-02T00:00:00"
+    },
+    {
+      "id": "0dd6c975-2f1d-4740-bea6-9c337eb22d07",
+      "name": "Elegant Silk Scarf",
+      "slug": "elegant-silk-scarf-5",
+      "description": "Experience the unique style and comfort of our elegant silk scarf.",
+      "price": 8000,
+      "rating": null,
+      "colors": [
+        "7edf7aac-7f70-4939-a4dc-4b21d29097f4",
+        "7edf7aac-7f70-4939-a4dc-4b21d29097f4"
+      ],
+      "sizes": [
+        "a8d1857f-f50b-47e4-b74e-5b8d4216b277",
+        "a8d1857f-f50b-47e4-b74e-5b8d4216b277",
+        "2ccf2b39-ad56-425f-9521-7dc9007ed414",
+        "7a60bc41-f3eb-4cfa-8631-5799cd5078a2"
+      ],
+      "categories": ["f65351ba-f17c-4dbd-921f-da8c4e656108"],
+      "collections": [
+        "38a76a3f-b499-40c4-a806-be7acd54ec55",
+        "4335d2cd-cd4c-495c-bc1f-ad9cc625001f"
+      ],
+      "images": ["6e890933-ea46-443b-bb07-d2c3c56c3a7c"],
+      "reviews": [],
+      "createdAt": "2003-10-08T00:00:00",
+      "updatedAt": "2003-11-18T00:00:00"
+    },
+    {
+      "id": "85c49922-c587-415e-b7ef-a5e21a84f9ee",
+      "name": "Active Gym Shorts",
+      "slug": "active-gym-shorts-6",
+      "description": "Experience the unique style and comfort of our active gym shorts.",
+      "price": 7750,
+      "rating": 4.5,
+      "colors": [
+        "b94cb2a9-b49b-479f-ad89-22039b8ddcb1",
+        "795edbc0-a641-4512-bdf5-b6ec54af69ae"
+      ],
+      "sizes": ["71c0daf1-9013-4531-afd5-12197bfbfca2"],
+      "categories": [
+        "e2b37d7f-b0a1-4498-a05f-99c845e1117e",
+        "9f6ee718-cbe1-4491-bdf8-00f6a55c5e74"
+      ],
+      "collections": ["7482be93-6e95-4fcd-8f4b-10b3e733afd1"],
+      "images": ["df75b1f4-767d-48ec-a341-2db893d74853"],
+      "reviews": [
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "71d39521-7440-4331-ab2d-dd58e61874cc",
+          "author": "Vanessa Booth",
+          "email": "vanessa.booth@hotmail.com",
+          "title": "Love the Active Gym Shorts"
+        },
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "09ef4959-ddd0-4280-8fd2-83d4a51c565f",
+          "author": "Madison Doyle",
+          "email": "madison.doyle@gmail.com",
+          "title": "Really Enjoy the Active Gym Shorts"
+        },
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "53688be7-bec9-4075-a55f-12f378f83a62",
+          "author": "Adam Rowe",
+          "email": "adam.rowe@gmail.com",
+          "title": "Really Enjoy the Active Gym Shorts"
+        },
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "91e7b002-d421-430c-b99d-3a384b4dec3d",
+          "author": "Zachary Obrien",
+          "email": "zachary.obrien@yahoo.com",
+          "title": "Really Enjoy the Active Gym Shorts"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "fabbd6fc-c5fe-4915-ab86-c0314f956055",
+          "author": "Christopher Stephens",
+          "email": "christopher.stephens@yahoo.com",
+          "title": "Love the Active Gym Shorts"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "60a88077-c270-4987-81ba-5890c5ab654a",
+          "author": "Kristen Simpson",
+          "email": "kristen.simpson@gmail.com",
+          "title": "Love the Active Gym Shorts"
+        },
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "3b94a770-af87-406e-a9b2-58b3729f5d37",
+          "author": "Jesse Green",
+          "email": "jesse.green@gmail.com",
+          "title": "Really Enjoy the Active Gym Shorts"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "18046f90-7a28-47fe-b57a-f915734d2bc1",
+          "author": "Sharon Arnold",
+          "email": "sharon.arnold@yahoo.com",
+          "title": "Love the Active Gym Shorts"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "0d436cb6-20fe-402f-974c-e6a972596aaf",
+          "author": "Erika Schneider",
+          "email": "erika.schneider@yahoo.com",
+          "title": "Love the Active Gym Shorts"
+        },
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "b83d7fb2-6679-4e15-a6d2-4b055dff2ea6",
+          "author": "Bryan Rose",
+          "email": "bryan.rose@gmail.com",
+          "title": "Really Enjoy the Active Gym Shorts"
+        }
+      ],
+      "createdAt": "2016-02-29T00:00:00",
+      "updatedAt": "2016-09-05T00:00:00"
+    },
+    {
+      "id": "2ec6912c-9690-4a59-9583-583fcf629b99",
+      "name": "Cozy Knit Sweater",
+      "slug": "cozy-knit-sweater-7",
+      "description": "Experience the unique style and comfort of our cozy knit sweater.",
+      "price": 9250,
+      "rating": 3.3,
+      "colors": [
+        "c020b0d3-9c9d-4bf9-a388-cf59b453b66c",
+        "174bfea0-5dd1-40c6-b3b0-72c0d1405f30"
+      ],
+      "sizes": [
+        "71c0daf1-9013-4531-afd5-12197bfbfca2",
+        "71c0daf1-9013-4531-afd5-12197bfbfca2",
+        "71c0daf1-9013-4531-afd5-12197bfbfca2"
+      ],
+      "categories": ["55a2c922-b6f7-4b17-9f69-1bbe2751d574"],
+      "collections": [
+        "98258a37-5120-4965-b60b-90c245e73c39",
+        "b6ec77e6-0c5e-4a4d-bd35-84ebb557f517"
+      ],
+      "images": ["9e1b8fbd-1db3-4ea1-bae2-89b9ed2bec56"],
+      "reviews": [
+        {
+          "rating": 3,
+          "description": "Decent, but there's room for improvement.",
+          "id": "07967980-c1f5-4846-b6bd-9e4155b1f3c8",
+          "author": "Kristen Long",
+          "email": "kristen.long@hotmail.com",
+          "title": "Think It's Okay the Cozy Knit Sweater"
+        },
+        {
+          "rating": 3,
+          "description": "Decent, but there's room for improvement.",
+          "id": "b9c92eee-158a-43b1-9b91-1224cbecb58e",
+          "author": "Juan Adams",
+          "email": "juan.adams@hotmail.com",
+          "title": "Think It's Okay the Cozy Knit Sweater"
+        },
+        {
+          "rating": 3,
+          "description": "Decent, but there's room for improvement.",
+          "id": "b2e4321d-23ce-4626-88af-3e04f357b595",
+          "author": "Jerome Mitchell",
+          "email": "jerome.mitchell@gmail.com",
+          "title": "Think It's Okay the Cozy Knit Sweater"
+        },
+        {
+          "rating": 3,
+          "description": "Decent, but there's room for improvement.",
+          "id": "07a567ff-eb64-4077-9776-2804aa167d57",
+          "author": "Nancy Zavala DVM",
+          "email": "nancy.dvm@gmail.com",
+          "title": "Think It's Okay the Cozy Knit Sweater"
+        },
+        {
+          "rating": 3,
+          "description": "Below average. Wouldn't recommend based on my experience.",
+          "id": "aabf22fd-9425-4b3a-8dc5-da543ab77058",
+          "author": "Martha Rivera",
+          "email": "martha.rivera@yahoo.com",
+          "title": "Dislike the Cozy Knit Sweater"
+        },
+        {
+          "rating": 3,
+          "description": "Decent, but there's room for improvement.",
+          "id": "a64be751-a915-4607-8c36-82420b5f460d",
+          "author": "Gerald Cruz",
+          "email": "gerald.cruz@gmail.com",
+          "title": "Think It's Okay the Cozy Knit Sweater"
+        },
+        {
+          "rating": 3,
+          "description": "Below average. Wouldn't recommend based on my experience.",
+          "id": "edc03f1b-22c9-44e4-8b0b-0f26182ad319",
+          "author": "Olivia Wang",
+          "email": "olivia.wang@gmail.com",
+          "title": "Dislike the Cozy Knit Sweater"
+        }
+      ],
+      "createdAt": "2011-01-18T00:00:00",
+      "updatedAt": "2011-03-22T00:00:00"
+    },
+    {
+      "id": "bbe87a3e-bbc4-4747-b864-718a81a17812",
+      "name": "Casual Denim Shorts",
+      "slug": "casual-denim-shorts-8",
+      "description": "Experience the unique style and comfort of our casual denim shorts.",
+      "price": 7240,
+      "rating": 4.6,
+      "colors": ["795edbc0-a641-4512-bdf5-b6ec54af69ae"],
+      "sizes": ["a8d1857f-f50b-47e4-b74e-5b8d4216b277"],
+      "categories": ["e2b37d7f-b0a1-4498-a05f-99c845e1117e"],
+      "collections": [
+        "bbfd1021-2b96-4a62-9786-27ed41f9a4cc",
+        "255b004d-10ea-4485-bc18-3b6b11997216"
+      ],
+      "images": ["4f029037-0213-4f74-92b5-a259e2c4e732"],
+      "reviews": [
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "6b824350-c0f4-4701-b73b-ed4bb121bd40",
+          "author": "Douglas Adams",
+          "email": "douglas.adams@gmail.com",
+          "title": "Really Enjoy the Casual Denim Shorts"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "df9d7380-9423-49a5-963a-7e82198f6db1",
+          "author": "Joshua Green",
+          "email": "joshua.green@hotmail.com",
+          "title": "Love the Casual Denim Shorts"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "e56e8ad3-8dd9-49c7-8ae4-7b89f5578424",
+          "author": "Meagan Burns",
+          "email": "meagan.burns@hotmail.com",
+          "title": "Love the Casual Denim Shorts"
+        },
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "5641c6ab-51b7-4b3b-bf59-21402a81ef18",
+          "author": "Thomas Marquez",
+          "email": "thomas.marquez@gmail.com",
+          "title": "Really Enjoy the Casual Denim Shorts"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "4267d2e6-f98a-4ab9-a1d5-2527fa8af902",
+          "author": "Brittany Jones MD",
+          "email": "brittany.md@gmail.com",
+          "title": "Love the Casual Denim Shorts"
+        },
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "d8b25020-ad0a-4eec-a385-cc4b18cce948",
+          "author": "Melissa Marsh",
+          "email": "melissa.marsh@gmail.com",
+          "title": "Really Enjoy the Casual Denim Shorts"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "8a7694ad-6ddb-473a-826d-b3ae6b8267f1",
+          "author": "Ricky Cherry",
+          "email": "ricky.cherry@gmail.com",
+          "title": "Love the Casual Denim Shorts"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "282a7a82-fe3a-4dae-aaed-7b31720cb1ad",
+          "author": "Daniel Gonzalez",
+          "email": "daniel.gonzalez@yahoo.com",
+          "title": "Love the Casual Denim Shorts"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "82f87c79-db31-47a0-bd10-6c201bc19ecd",
+          "author": "Paula Blackwell",
+          "email": "paula.blackwell@hotmail.com",
+          "title": "Love the Casual Denim Shorts"
+        },
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "033e9232-a45b-4d8d-ab4a-f4ca6b8b0bdc",
+          "author": "Andres Jackson",
+          "email": "andres.jackson@gmail.com",
+          "title": "Really Enjoy the Casual Denim Shorts"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "9b749ea5-243b-473b-afa0-67b4ceb1c77f",
+          "author": "James Nguyen",
+          "email": "james.nguyen@hotmail.com",
+          "title": "Love the Casual Denim Shorts"
+        },
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "eed90452-7511-4f71-8c2a-d74776c12f2a",
+          "author": "Mrs. Melissa Jackson",
+          "email": "mrs..jackson@yahoo.com",
+          "title": "Really Enjoy the Casual Denim Shorts"
+        },
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "0c03ccda-bea2-40dd-a7a7-15b050200e37",
+          "author": "Dawn Reed",
+          "email": "dawn.reed@gmail.com",
+          "title": "Really Enjoy the Casual Denim Shorts"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "e8c14039-7e26-42ee-83af-de0672673e48",
+          "author": "Erin Johnson",
+          "email": "erin.johnson@gmail.com",
+          "title": "Love the Casual Denim Shorts"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "f5d196a9-a854-4a81-9890-9149607b0fce",
+          "author": "Pamela Banks",
+          "email": "pamela.banks@hotmail.com",
+          "title": "Love the Casual Denim Shorts"
+        }
+      ],
+      "createdAt": "2014-07-22T00:00:00",
+      "updatedAt": "2014-10-21T00:00:00"
+    },
+    {
+      "id": "676e7747-a885-49a2-8462-c3f1d7f2fdcd",
+      "name": "Heavy Winter Coat",
+      "slug": "heavy-winter-coat-9",
+      "description": "Experience the unique style and comfort of our heavy winter coat.",
+      "price": 34000,
+      "rating": null,
+      "colors": [
+        "b3fac8ca-5232-4c03-9c80-a63b2bd1339b",
+        "7edf7aac-7f70-4939-a4dc-4b21d29097f4",
+        "b94cb2a9-b49b-479f-ad89-22039b8ddcb1"
+      ],
+      "sizes": [
+        "71c0daf1-9013-4531-afd5-12197bfbfca2",
+        "a8d1857f-f50b-47e4-b74e-5b8d4216b277"
+      ],
+      "categories": [
+        "c50663dc-1e6d-46f5-a6a5-965473669740",
+        "25fedded-8263-4d02-9f0c-6f199179a5df"
+      ],
+      "collections": [
+        "98258a37-5120-4965-b60b-90c245e73c39",
+        "b6ec77e6-0c5e-4a4d-bd35-84ebb557f517"
+      ],
+      "images": ["d6ae5e8c-df4c-4d72-87dd-65bcab1642b2"],
+      "reviews": [],
+      "createdAt": "2018-07-20T00:00:00",
+      "updatedAt": "2019-03-18T00:00:00"
+    },
+    {
+      "id": "1cbf814d-ca90-4a83-ac1b-cca9369348de",
+      "name": "Professional Blazer",
+      "slug": "professional-blazer-10",
+      "description": "Experience the unique style and comfort of our professional blazer.",
+      "price": 28600,
+      "rating": null,
+      "colors": [
+        "ef14f375-b851-453d-a446-31f5599e25b7",
+        "c020b0d3-9c9d-4bf9-a388-cf59b453b66c"
+      ],
+      "sizes": ["71c0daf1-9013-4531-afd5-12197bfbfca2"],
+      "categories": ["c50663dc-1e6d-46f5-a6a5-965473669740"],
+      "collections": ["493bf8cb-1b68-4d14-92e8-06e8cbcf660a"],
+      "images": ["b5b6394d-25fb-4f2c-bdf4-17dc9c991c84"],
+      "reviews": [],
+      "createdAt": "2005-01-28T00:00:00",
+      "updatedAt": "2005-10-07T00:00:00"
+    },
+    {
+      "id": "7e8cb394-ea36-4825-a749-9c839f6ac767",
+      "name": "Light Linen Shirt",
+      "slug": "light-linen-shirt-11",
+      "description": "Experience the unique style and comfort of our light linen shirt.",
+      "price": 4910,
+      "rating": 4.6,
+      "colors": [
+        "b94cb2a9-b49b-479f-ad89-22039b8ddcb1",
+        "d94bb79f-2dae-4da1-8279-a20610165ced"
+      ],
+      "sizes": [
+        "7a60bc41-f3eb-4cfa-8631-5799cd5078a2",
+        "a73a7c9d-26b3-4d99-aa17-bbef404ff8aa",
+        "71c0daf1-9013-4531-afd5-12197bfbfca2",
+        "2ccf2b39-ad56-425f-9521-7dc9007ed414",
+        "7a60bc41-f3eb-4cfa-8631-5799cd5078a2"
+      ],
+      "categories": ["dbe738f4-9201-403f-b88c-c6cd214b3b8b"],
+      "collections": [
+        "bbfd1021-2b96-4a62-9786-27ed41f9a4cc",
+        "255b004d-10ea-4485-bc18-3b6b11997216",
+        "38a76a3f-b499-40c4-a806-be7acd54ec55"
+      ],
+      "images": ["34adb275-2e90-4eb0-9c81-6519c2286c0f"],
+      "reviews": [
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "54d96354-a0ad-4e38-8722-1e1d4c6dd38b",
+          "author": "Penny Gonzales",
+          "email": "penny.gonzales@yahoo.com",
+          "title": "Really Enjoy the Light Linen Shirt"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "9ebb3900-4970-498b-8f73-69427368fe9b",
+          "author": "Erica Dean",
+          "email": "erica.dean@gmail.com",
+          "title": "Love the Light Linen Shirt"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "77d7747d-dc89-4815-b16d-8904838a70b5",
+          "author": "Taylor Brown",
+          "email": "taylor.brown@gmail.com",
+          "title": "Love the Light Linen Shirt"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "63173c36-a303-4dcc-9bc1-6d98f5888600",
+          "author": "Isabella Webster",
+          "email": "isabella.webster@hotmail.com",
+          "title": "Love the Light Linen Shirt"
+        },
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "6406c864-613f-4811-8e8e-9ad1a41cfd7b",
+          "author": "Eric Alvarez",
+          "email": "eric.alvarez@gmail.com",
+          "title": "Really Enjoy the Light Linen Shirt"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "50a89d25-d7fd-4da6-82b1-7e7da74043b7",
+          "author": "Gina Schaefer",
+          "email": "gina.schaefer@gmail.com",
+          "title": "Love the Light Linen Shirt"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "b28a23e7-103c-442f-9c26-32dc8f2df34d",
+          "author": "Jacob Nelson",
+          "email": "jacob.nelson@yahoo.com",
+          "title": "Love the Light Linen Shirt"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "2f0ea374-b35f-4777-a9dc-9d99967b51e3",
+          "author": "Joy Sawyer",
+          "email": "joy.sawyer@hotmail.com",
+          "title": "Love the Light Linen Shirt"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "3d0f0157-ae3b-461a-aa4e-350def1afeae",
+          "author": "Cody Cabrera",
+          "email": "cody.cabrera@gmail.com",
+          "title": "Love the Light Linen Shirt"
+        },
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "8d4bacc8-a898-4218-b6f3-83a31e55950b",
+          "author": "William Huerta",
+          "email": "william.huerta@gmail.com",
+          "title": "Really Enjoy the Light Linen Shirt"
+        },
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "b0c6bba2-41c2-4c5f-8ff0-1b5e985f3c9b",
+          "author": "Nicholas Neal",
+          "email": "nicholas.neal@gmail.com",
+          "title": "Really Enjoy the Light Linen Shirt"
+        },
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "8c2f83b5-c948-40be-8343-862a631d91f1",
+          "author": "Cynthia Smith",
+          "email": "cynthia.smith@hotmail.com",
+          "title": "Really Enjoy the Light Linen Shirt"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "77344ecf-9d0a-4297-ad99-d01deea20621",
+          "author": "Mark Murphy",
+          "email": "mark.murphy@yahoo.com",
+          "title": "Love the Light Linen Shirt"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "c5dae74a-fb94-47ef-813f-72cefd64d205",
+          "author": "Rebecca Miller",
+          "email": "rebecca.miller@gmail.com",
+          "title": "Love the Light Linen Shirt"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "902f53ef-e68e-4157-b9ab-b1c5a381ef51",
+          "author": "Gina Ortiz",
+          "email": "gina.ortiz@gmail.com",
+          "title": "Love the Light Linen Shirt"
+        }
+      ],
+      "createdAt": "2008-01-23T00:00:00",
+      "updatedAt": "2008-05-02T00:00:00"
+    },
+    {
+      "id": "3706e3d0-9873-4aa9-a5f4-d115bf2da687",
+      "name": "Pique Polo Shirt",
+      "slug": "pique-polo-shirt-12",
+      "description": "Experience the unique style and comfort of our pique polo shirt.",
+      "price": 5840,
+      "rating": 3.1,
+      "colors": [
+        "b94cb2a9-b49b-479f-ad89-22039b8ddcb1",
+        "ef14f375-b851-453d-a446-31f5599e25b7"
+      ],
+      "sizes": ["a73a7c9d-26b3-4d99-aa17-bbef404ff8aa"],
+      "categories": ["dbe738f4-9201-403f-b88c-c6cd214b3b8b"],
+      "collections": [
+        "bbfd1021-2b96-4a62-9786-27ed41f9a4cc",
+        "4335d2cd-cd4c-495c-bc1f-ad9cc625001f"
+      ],
+      "images": ["02eb8ed9-a6ce-495d-b632-dbab0e047fc5"],
+      "reviews": [
+        {
+          "rating": 3,
+          "description": "Below average. Wouldn't recommend based on my experience.",
+          "id": "3813f9a3-dbf6-4d8c-8481-33e1c075abe4",
+          "author": "Nicholas Marsh",
+          "email": "nicholas.marsh@hotmail.com",
+          "title": "Dislike the Pique Polo Shirt"
+        },
+        {
+          "rating": 3,
+          "description": "Below average. Wouldn't recommend based on my experience.",
+          "id": "b4de4cc8-0460-40b1-b0f7-edb65269d319",
+          "author": "Michael Mathews",
+          "email": "michael.mathews@gmail.com",
+          "title": "Dislike the Pique Polo Shirt"
+        },
+        {
+          "rating": 3,
+          "description": "Below average. Wouldn't recommend based on my experience.",
+          "id": "dfc81f9a-8325-4647-a059-19deb1c6d28b",
+          "author": "Michael Brown",
+          "email": "michael.brown@yahoo.com",
+          "title": "Dislike the Pique Polo Shirt"
+        },
+        {
+          "rating": 3,
+          "description": "Below average. Wouldn't recommend based on my experience.",
+          "id": "631edeb0-bb7f-4ca3-affe-d45d9968fd09",
+          "author": "Gina Griffin",
+          "email": "gina.griffin@gmail.com",
+          "title": "Dislike the Pique Polo Shirt"
+        },
+        {
+          "rating": 3,
+          "description": "Below average. Wouldn't recommend based on my experience.",
+          "id": "330b1495-3d8a-4eef-9749-73a494a959ab",
+          "author": "Nicholas Gill",
+          "email": "nicholas.gill@yahoo.com",
+          "title": "Dislike the Pique Polo Shirt"
+        },
+        {
+          "rating": 3,
+          "description": "Below average. Wouldn't recommend based on my experience.",
+          "id": "94a3ae86-b1ae-45c8-ab95-96c2bc0ff280",
+          "author": "William Gomez",
+          "email": "william.gomez@gmail.com",
+          "title": "Dislike the Pique Polo Shirt"
+        },
+        {
+          "rating": 3,
+          "description": "Below average. Wouldn't recommend based on my experience.",
+          "id": "89aa67d2-c74c-4b07-abb9-ed2434ca09bb",
+          "author": "Tiffany Baker",
+          "email": "tiffany.baker@hotmail.com",
+          "title": "Dislike the Pique Polo Shirt"
+        },
+        {
+          "rating": 3,
+          "description": "Decent, but there's room for improvement.",
+          "id": "19a3a6a4-074e-4f34-a5a6-68c277c00114",
+          "author": "Michael Mckinney",
+          "email": "michael.mckinney@hotmail.com",
+          "title": "Think It's Okay the Pique Polo Shirt"
+        },
+        {
+          "rating": 3,
+          "description": "Decent, but there's room for improvement.",
+          "id": "28f41621-ffb3-4830-a480-caa757ef764c",
+          "author": "Douglas Ramirez",
+          "email": "douglas.ramirez@hotmail.com",
+          "title": "Think It's Okay the Pique Polo Shirt"
+        },
+        {
+          "rating": 3,
+          "description": "Decent, but there's room for improvement.",
+          "id": "7648da67-936c-4954-8126-733be222ec6f",
+          "author": "James Adams",
+          "email": "james.adams@hotmail.com",
+          "title": "Think It's Okay the Pique Polo Shirt"
+        },
+        {
+          "rating": 3,
+          "description": "Below average. Wouldn't recommend based on my experience.",
+          "id": "d7da7cd0-01ca-4862-8ef1-b6bb2a94e9e6",
+          "author": "Alexander Austin",
+          "email": "alexander.austin@gmail.com",
+          "title": "Dislike the Pique Polo Shirt"
+        },
+        {
+          "rating": 3,
+          "description": "Below average. Wouldn't recommend based on my experience.",
+          "id": "5b0773c4-a993-4021-9e0a-69b15acbe303",
+          "author": "Kim Gilmore",
+          "email": "kim.gilmore@hotmail.com",
+          "title": "Dislike the Pique Polo Shirt"
+        },
+        {
+          "rating": 3,
+          "description": "Decent, but there's room for improvement.",
+          "id": "bf56d266-64e9-4b41-92fa-d26c035cc3d0",
+          "author": "Amanda Ochoa",
+          "email": "amanda.ochoa@gmail.com",
+          "title": "Think It's Okay the Pique Polo Shirt"
+        }
+      ],
+      "createdAt": "2000-01-06T00:00:00",
+      "updatedAt": "2000-09-09T00:00:00"
+    },
+    {
+      "id": "8a149b69-5ca7-4060-937c-422ba04fd975",
+      "name": "Utility Cargo Pants",
+      "slug": "utility-cargo-pants-13",
+      "description": "Experience the unique style and comfort of our utility cargo pants.",
+      "price": 7220,
+      "rating": null,
+      "colors": [
+        "b3fac8ca-5232-4c03-9c80-a63b2bd1339b",
+        "b3fac8ca-5232-4c03-9c80-a63b2bd1339b"
+      ],
+      "sizes": [
+        "a8d1857f-f50b-47e4-b74e-5b8d4216b277",
+        "2ccf2b39-ad56-425f-9521-7dc9007ed414",
+        "a8d1857f-f50b-47e4-b74e-5b8d4216b277"
+      ],
+      "categories": ["1ddd14a9-d6d7-41be-95c1-e185e031f9f8"],
+      "collections": [
+        "bbfd1021-2b96-4a62-9786-27ed41f9a4cc",
+        "4335d2cd-cd4c-495c-bc1f-ad9cc625001f"
+      ],
+      "images": ["3e37aaa5-2011-4b7c-ad30-3baf7c9e2341"],
+      "reviews": [],
+      "createdAt": "2005-10-22T00:00:00",
+      "updatedAt": "2006-08-31T00:00:00"
+    },
+    {
+      "id": "4dccd0e0-a56c-4708-8750-1fcfdd627002",
+      "name": "Stretch Yoga Pants",
+      "slug": "stretch-yoga-pants-14",
+      "description": "Experience the unique style and comfort of our stretch yoga pants.",
+      "price": 7020,
+      "rating": 4.6,
+      "colors": [
+        "d94bb79f-2dae-4da1-8279-a20610165ced",
+        "3d19c310-11be-422f-ba66-557c77629913",
+        "7edf7aac-7f70-4939-a4dc-4b21d29097f4"
+      ],
+      "sizes": [
+        "71c0daf1-9013-4531-afd5-12197bfbfca2",
+        "2ccf2b39-ad56-425f-9521-7dc9007ed414",
+        "6d6f8322-6265-44aa-8ae9-5ed404acfce2"
+      ],
+      "categories": ["9f6ee718-cbe1-4491-bdf8-00f6a55c5e74"],
+      "collections": [
+        "7482be93-6e95-4fcd-8f4b-10b3e733afd1",
+        "b6ec77e6-0c5e-4a4d-bd35-84ebb557f517"
+      ],
+      "images": ["8f217a1b-f068-40bf-9737-535dfd5b219a"],
+      "reviews": [
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "dd7c7f75-d36e-4ea3-a227-5edabdd4c87f",
+          "author": "Rebecca Rogers",
+          "email": "rebecca.rogers@gmail.com",
+          "title": "Love the Stretch Yoga Pants"
+        },
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "504c7580-603d-48e9-a136-10e500edb4df",
+          "author": "Roger Webster",
+          "email": "roger.webster@yahoo.com",
+          "title": "Really Enjoy the Stretch Yoga Pants"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "94de748f-c9df-4e59-95b8-150784866074",
+          "author": "Gregory Moore",
+          "email": "gregory.moore@gmail.com",
+          "title": "Love the Stretch Yoga Pants"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "b92dc654-7b33-44e1-b50e-0424e622ae98",
+          "author": "Sarah Owen",
+          "email": "sarah.owen@gmail.com",
+          "title": "Love the Stretch Yoga Pants"
+        },
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "04dc09ee-7e63-454a-9d49-b1fcdb40ed11",
+          "author": "Makayla Young",
+          "email": "makayla.young@hotmail.com",
+          "title": "Really Enjoy the Stretch Yoga Pants"
+        },
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "233b2b54-c53c-401d-8818-d0500a6e39a6",
+          "author": "Gerald Smith",
+          "email": "gerald.smith@gmail.com",
+          "title": "Really Enjoy the Stretch Yoga Pants"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "3355606c-c217-4eba-b714-a3d025ec7376",
+          "author": "Jenna Stewart",
+          "email": "jenna.stewart@gmail.com",
+          "title": "Love the Stretch Yoga Pants"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "fb98aa46-c3a4-4291-8094-03c544f9f744",
+          "author": "Kimberly Marsh",
+          "email": "kimberly.marsh@yahoo.com",
+          "title": "Love the Stretch Yoga Pants"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "48af74c4-a84a-4522-be34-150e477218f0",
+          "author": "Debra Strickland",
+          "email": "debra.strickland@hotmail.com",
+          "title": "Love the Stretch Yoga Pants"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "e0eb35e5-b72b-4d68-adbd-2b35cbaa069a",
+          "author": "Linda Carter",
+          "email": "linda.carter@hotmail.com",
+          "title": "Love the Stretch Yoga Pants"
+        },
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "223dd18e-efbd-4060-b67c-ac44ff78e0ee",
+          "author": "Tracey Avila",
+          "email": "tracey.avila@gmail.com",
+          "title": "Really Enjoy the Stretch Yoga Pants"
+        }
+      ],
+      "createdAt": "2014-05-04T00:00:00",
+      "updatedAt": "2014-09-24T00:00:00"
+    },
+    {
+      "id": "b2ab1394-5a1d-4a21-84de-829ddfc6efc3",
+      "name": "Flowy Maxi Skirt",
+      "slug": "flowy-maxi-skirt-15",
+      "description": "Experience the unique style and comfort of our flowy maxi skirt.",
+      "price": 8390,
+      "rating": 4.7,
+      "colors": ["795edbc0-a641-4512-bdf5-b6ec54af69ae"],
+      "sizes": [
+        "71c0daf1-9013-4531-afd5-12197bfbfca2",
+        "a73a7c9d-26b3-4d99-aa17-bbef404ff8aa",
+        "6d6f8322-6265-44aa-8ae9-5ed404acfce2",
+        "71c0daf1-9013-4531-afd5-12197bfbfca2",
+        "2ccf2b39-ad56-425f-9521-7dc9007ed414"
+      ],
+      "categories": ["c771152c-f4ef-4a50-9cbb-5bc5fc67d23b"],
+      "collections": ["4335d2cd-cd4c-495c-bc1f-ad9cc625001f"],
+      "images": ["490b1e4d-755e-453c-818e-d1020a6c3613"],
+      "reviews": [
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "a832f2a9-c3b9-41dd-b0a8-ff7a22612d1f",
+          "author": "Mrs. Alicia Hunt",
+          "email": "mrs..hunt@yahoo.com",
+          "title": "Really Enjoy the Flowy Maxi Skirt"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "fdf5caaf-b55d-4d5f-8b8b-2477c386ff23",
+          "author": "Yolanda Cabrera",
+          "email": "yolanda.cabrera@gmail.com",
+          "title": "Love the Flowy Maxi Skirt"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "b89b31e7-9615-423f-8015-1a7987b48fa3",
+          "author": "Billy Richards",
+          "email": "billy.richards@gmail.com",
+          "title": "Love the Flowy Maxi Skirt"
+        },
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "60d15feb-eb57-4abf-9810-81368f234add",
+          "author": "James Phillips",
+          "email": "james.phillips@hotmail.com",
+          "title": "Really Enjoy the Flowy Maxi Skirt"
+        },
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "e1a193e8-a9ee-40d8-a10a-8cdc0213260b",
+          "author": "Sheena Snyder",
+          "email": "sheena.snyder@hotmail.com",
+          "title": "Really Enjoy the Flowy Maxi Skirt"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "19d47c6e-c144-4099-8516-0eebeb85038c",
+          "author": "Christie Snow",
+          "email": "christie.snow@yahoo.com",
+          "title": "Love the Flowy Maxi Skirt"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "334faed5-7262-432e-9cd1-b6790125b0f0",
+          "author": "Robert Watts",
+          "email": "robert.watts@hotmail.com",
+          "title": "Love the Flowy Maxi Skirt"
+        }
+      ],
+      "createdAt": "2019-11-15T00:00:00",
+      "updatedAt": "2020-01-26T00:00:00"
+    },
+    {
+      "id": "77d41fea-2e5e-4881-9999-a98eb28ed1cc",
+      "name": "Beach-ready Bikini",
+      "slug": "beach-ready-bikini-16",
+      "description": "Experience the unique style and comfort of our beach-ready bikini.",
+      "price": 8260,
+      "rating": null,
+      "colors": ["795edbc0-a641-4512-bdf5-b6ec54af69ae"],
+      "sizes": [
+        "2ccf2b39-ad56-425f-9521-7dc9007ed414",
+        "a73a7c9d-26b3-4d99-aa17-bbef404ff8aa",
+        "a8d1857f-f50b-47e4-b74e-5b8d4216b277",
+        "2ccf2b39-ad56-425f-9521-7dc9007ed414",
+        "a73a7c9d-26b3-4d99-aa17-bbef404ff8aa"
+      ],
+      "categories": ["ff73984e-ac08-471f-b605-97aafbdf8260"],
+      "collections": ["255b004d-10ea-4485-bc18-3b6b11997216"],
+      "images": ["a28b4d54-4c59-48bb-8e02-0c009bf47201"],
+      "reviews": [],
+      "createdAt": "2012-08-18T00:00:00",
+      "updatedAt": "2013-06-02T00:00:00"
+    },
+    {
+      "id": "3a0045db-4f65-4d21-81da-632a1de1070c",
+      "name": "Athletic Track Jacket",
+      "slug": "athletic-track-jacket-17",
+      "description": "Experience the unique style and comfort of our athletic track jacket.",
+      "price": 9930,
+      "rating": null,
+      "colors": ["c020b0d3-9c9d-4bf9-a388-cf59b453b66c"],
+      "sizes": [
+        "2ccf2b39-ad56-425f-9521-7dc9007ed414",
+        "7a60bc41-f3eb-4cfa-8631-5799cd5078a2",
+        "6d6f8322-6265-44aa-8ae9-5ed404acfce2"
+      ],
+      "categories": [
+        "c50663dc-1e6d-46f5-a6a5-965473669740",
+        "25fedded-8263-4d02-9f0c-6f199179a5df"
+      ],
+      "collections": ["7482be93-6e95-4fcd-8f4b-10b3e733afd1"],
+      "images": ["88a24ed3-c2c8-4033-8178-4b6a88381654"],
+      "reviews": [],
+      "createdAt": "2021-04-25T00:00:00",
+      "updatedAt": "2022-01-18T00:00:00"
+    },
+    {
+      "id": "a91a14c3-9f8f-4d3f-83a0-ddfd4c3e1d5c",
+      "name": "Comfy Hoodie",
+      "slug": "comfy-hoodie-18",
+      "description": "Experience the unique style and comfort of our comfy hoodie.",
+      "price": 7190,
+      "rating": 4.1,
+      "colors": ["d94bb79f-2dae-4da1-8279-a20610165ced"],
+      "sizes": ["2ccf2b39-ad56-425f-9521-7dc9007ed414"],
+      "categories": ["9f6ee718-cbe1-4491-bdf8-00f6a55c5e74"],
+      "collections": [
+        "bbfd1021-2b96-4a62-9786-27ed41f9a4cc",
+        "7b334bdf-e14f-41cf-8fea-c4654d5df370"
+      ],
+      "images": ["4b6929a9-92a5-48b5-903d-f9d4bb9420a5"],
+      "reviews": [
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "07beed32-095c-4dd5-96c1-6eb43cee2363",
+          "author": "Sheila Leblanc",
+          "email": "sheila.leblanc@gmail.com",
+          "title": "Really Enjoy the Comfy Hoodie"
+        },
+        {
+          "rating": 5,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "ee2aa016-178b-457f-ba37-51403e44dd44",
+          "author": "Austin Mercado",
+          "email": "austin.mercado@gmail.com",
+          "title": "Love the Comfy Hoodie"
+        },
+        {
+          "rating": 4,
+          "description": "Decent, but there's room for improvement.",
+          "id": "09aedc05-ec46-4e9b-9e0a-40b529d620a7",
+          "author": "Brittany Byrd",
+          "email": "brittany.byrd@gmail.com",
+          "title": "Like the Comfy Hoodie"
+        },
+        {
+          "rating": 4,
+          "description": "Decent, but there's room for improvement.",
+          "id": "0315aac9-86d6-4091-ad25-9ffe0f83c8e1",
+          "author": "Rebecca Beltran",
+          "email": "rebecca.beltran@gmail.com",
+          "title": "Like the Comfy Hoodie"
+        },
+        {
+          "rating": 4,
+          "description": "Decent, but there's room for improvement.",
+          "id": "cbbc0975-50d8-41be-89b4-e29587a52c7f",
+          "author": "Cassie Bennett",
+          "email": "cassie.bennett@hotmail.com",
+          "title": "Like the Comfy Hoodie"
+        },
+        {
+          "rating": 4,
+          "description": "Decent, but there's room for improvement.",
+          "id": "e624f324-6111-46ff-a0fc-3f41b3cd4336",
+          "author": "Andrew Simon",
+          "email": "andrew.simon@gmail.com",
+          "title": "Like the Comfy Hoodie"
+        },
+        {
+          "rating": 4,
+          "description": "Decent, but there's room for improvement.",
+          "id": "4a969ab3-974b-437e-839f-ce2935060242",
+          "author": "Denise Barnes",
+          "email": "denise.barnes@gmail.com",
+          "title": "Like the Comfy Hoodie"
+        },
+        {
+          "rating": 4,
+          "description": "Absolutely loved it! Would definitely recommend!",
+          "id": "f0dd4881-2678-4464-8261-6b951af35d8a",
+          "author": "Mary Hicks",
+          "email": "mary.hicks@gmail.com",
+          "title": "Really Enjoy the Comfy Hoodie"
+        },
+        {
+          "rating": 4,
+          "description": "Decent, but there's room for improvement.",
+          "id": "45c28206-4458-4f2e-baae-74005ced5165",
+          "author": "Christine Vasquez",
+          "email": "christine.vasquez@gmail.com",
+          "title": "Like the Comfy Hoodie"
+        },
+        {
+          "rating": 4,
+          "description": "Decent, but there's room for improvement.",
+          "id": "c60bc3cf-9344-4847-8735-77146e9f7f42",
+          "author": "Jeffrey Rivera",
+          "email": "jeffrey.rivera@gmail.com",
+          "title": "Like the Comfy Hoodie"
+        },
+        {
+          "rating": 4,
+          "description": "Decent, but there's room for improvement.",
+          "id": "0e9236d7-fd4a-4fe8-8930-c8d518ea4ebc",
+          "author": "Laura Higgins",
+          "email": "laura.higgins@yahoo.com",
+          "title": "Like the Comfy Hoodie"
+        }
+      ],
+      "createdAt": "2014-01-30T00:00:00",
+      "updatedAt": "2014-11-03T00:00:00"
+    },
+    {
+      "id": "5fbc7a0e-d4f0-452d-8620-57163a2672f9",
+      "name": "Warm Beanie",
+      "slug": "warm-beanie-19",
+      "description": "Experience the unique style and comfort of our warm beanie.",
+      "price": 9110,
+      "rating": null,
+      "colors": ["3d19c310-11be-422f-ba66-557c77629913"],
+      "sizes": [
+        "6d6f8322-6265-44aa-8ae9-5ed404acfce2",
+        "71c0daf1-9013-4531-afd5-12197bfbfca2",
+        "a8d1857f-f50b-47e4-b74e-5b8d4216b277",
+        "2ccf2b39-ad56-425f-9521-7dc9007ed414"
+      ],
+      "categories": ["25fedded-8263-4d02-9f0c-6f199179a5df"],
+      "collections": [
+        "98258a37-5120-4965-b60b-90c245e73c39",
+        "b6ec77e6-0c5e-4a4d-bd35-84ebb557f517"
+      ],
+      "images": ["4e8c41c5-69cc-4ca7-8b51-f465f45abd29"],
+      "reviews": [],
+      "createdAt": "2018-10-21T00:00:00",
+      "updatedAt": "2019-05-07T00:00:00"
+    },
+    {
+      "id": "fba283d8-7561-46e2-8793-e13c03c4cc9c",
+      "name": "Everyday Sneakers",
+      "slug": "everyday-sneakers-20",
+      "description": "Experience the unique style and comfort of our everyday sneakers.",
+      "price": 9640,
+      "rating": 3.3,
+      "colors": [
+        "174bfea0-5dd1-40c6-b3b0-72c0d1405f30",
+        "174bfea0-5dd1-40c6-b3b0-72c0d1405f30",
+        "d94bb79f-2dae-4da1-8279-a20610165ced"
+      ],
+      "sizes": ["2ccf2b39-ad56-425f-9521-7dc9007ed414"],
+      "categories": ["7376385e-7ef0-4425-a429-2058ca725683"],
+      "collections": [
+        "bbfd1021-2b96-4a62-9786-27ed41f9a4cc",
+        "4b06fdc4-39ac-4878-8f08-7df01e8ca9f9"
+      ],
+      "images": ["5ee997c8-8f0d-4e3a-bb5f-caa48fad8a6a"],
+      "reviews": [
+        {
+          "rating": 3,
+          "description": "Decent, but there's room for improvement.",
+          "id": "02d47b71-b0d2-4170-acd8-8ed395410377",
+          "author": "Randy Lewis",
+          "email": "randy.lewis@hotmail.com",
+          "title": "Think It's Okay the Everyday Sneakers"
+        },
+        {
+          "rating": 4,
+          "description": "Decent, but there's room for improvement.",
+          "id": "ae1c3004-1058-461d-b04c-42400c7bd9d2",
+          "author": "Jeremy Brady",
+          "email": "jeremy.brady@yahoo.com",
+          "title": "Like the Everyday Sneakers"
+        },
+        {
+          "rating": 3,
+          "description": "Decent, but there's room for improvement.",
+          "id": "826ca163-d016-4a8e-aca1-bb791778f8ea",
+          "author": "Samantha Holder",
+          "email": "samantha.holder@yahoo.com",
+          "title": "Think It's Okay the Everyday Sneakers"
+        },
+        {
+          "rating": 3,
+          "description": "Below average. Wouldn't recommend based on my experience.",
+          "id": "a6b9378d-512c-4274-9a39-192663046792",
+          "author": "Rachel Baker",
+          "email": "rachel.baker@gmail.com",
+          "title": "Dislike the Everyday Sneakers"
+        },
+        {
+          "rating": 3,
+          "description": "Decent, but there's room for improvement.",
+          "id": "bcac620c-30fa-4c1d-a1f1-7949e1c56baa",
+          "author": "Sierra Hodge",
+          "email": "sierra.hodge@hotmail.com",
+          "title": "Think It's Okay the Everyday Sneakers"
+        },
+        {
+          "rating": 3,
+          "description": "Below average. Wouldn't recommend based on my experience.",
+          "id": "c884aa52-0084-4819-a2c6-eb19f11ce9d6",
+          "author": "David Brown",
+          "email": "david.brown@gmail.com",
+          "title": "Dislike the Everyday Sneakers"
+        },
+        {
+          "rating": 4,
+          "description": "Decent, but there's room for improvement.",
+          "id": "65a98ee8-3d19-45c3-8d53-4521e9caaa20",
+          "author": "Timothy Bowman",
+          "email": "timothy.bowman@yahoo.com",
+          "title": "Like the Everyday Sneakers"
+        },
+        {
+          "rating": 3,
+          "description": "Decent, but there's room for improvement.",
+          "id": "764a1edf-cd4a-4708-9544-798196e0c730",
+          "author": "Dr. Andrew Rogers III",
+          "email": "dr..iii@gmail.com",
+          "title": "Think It's Okay the Everyday Sneakers"
+        }
+      ],
+      "createdAt": "2017-09-11T00:00:00",
+      "updatedAt": "2018-06-03T00:00:00"
+    },
+    {
+      "id": "a8862843-32be-4a3f-8ddf-d7b7a81aa02c",
+      "name": "Chic High Heels",
+      "slug": "chic-high-heels-21",
+      "description": "Experience the unique style and comfort of our chic high heels.",
+      "price": 9590,
+      "rating": null,
+      "colors": [
+        "c020b0d3-9c9d-4bf9-a388-cf59b453b66c",
+        "ef14f375-b851-453d-a446-31f5599e25b7"
+      ],
+      "sizes": [
+        "2ccf2b39-ad56-425f-9521-7dc9007ed414",
+        "71c0daf1-9013-4531-afd5-12197bfbfca2"
+      ],
+      "categories": ["7376385e-7ef0-4425-a429-2058ca725683"],
+      "collections": [
+        "493bf8cb-1b68-4d14-92e8-06e8cbcf660a",
+        "4335d2cd-cd4c-495c-bc1f-ad9cc625001f"
+      ],
+      "images": ["9c345c47-c93f-4efa-83ec-39b6c357bf33"],
+      "reviews": [],
+      "createdAt": "2011-04-12T00:00:00",
+      "updatedAt": "2011-09-17T00:00:00"
+    },
+    {
+      "id": "ad8970a9-f80d-435d-b52b-ffdd94c4ad55",
+      "name": "Versatile Ankle Boots",
+      "slug": "versatile-ankle-boots-22",
+      "description": "Experience the unique style and comfort of our versatile ankle boots.",
+      "price": 8750,
+      "colors": [
+        "b3fac8ca-5232-4c03-9c80-a63b2bd1339b",
+        "8bc92688-9d1f-4cd2-aab5-5bcf73b5ef96"
+      ],
+      "sizes": [
+        "7a60bc41-f3eb-4cfa-8631-5799cd5078a2",
+        "6d6f8322-6265-44aa-8ae9-5ed404acfce2",
+        "6d6f8322-6265-44aa-8ae9-5ed404acfce2"
+      ],
+      "categories": ["7376385e-7ef0-4425-a429-2058ca725683"],
+      "collections": ["7b334bdf-e14f-41cf-8fea-c4654d5df370"],
+      "images": ["fb331c18-6188-4586-8212-cadee9a92fd9"],
+      "reviews": [],
+      "createdAt": "2004-01-21T00:00:00",
+      "updatedAt": "2004-08-30T00:00:00",
+      "rating": null
+    },
+    {
+      "id": "d9a9fecb-4929-49ba-bc9f-4fa610916e5c",
+      "name": "Summer Sandals",
+      "slug": "summer-sandals-23",
+      "description": "Experience the unique style and comfort of our summer sandals.",
+      "price": 6260,
+      "colors": [
+        "7edf7aac-7f70-4939-a4dc-4b21d29097f4",
+        "8bc92688-9d1f-4cd2-aab5-5bcf73b5ef96",
+        "b3fac8ca-5232-4c03-9c80-a63b2bd1339b"
+      ],
+      "sizes": ["71c0daf1-9013-4531-afd5-12197bfbfca2"],
+      "categories": ["7376385e-7ef0-4425-a429-2058ca725683"],
+      "collections": [
+        "255b004d-10ea-4485-bc18-3b6b11997216",
+        "bbfd1021-2b96-4a62-9786-27ed41f9a4cc"
+      ],
+      "images": ["18e813d2-ce08-487d-b712-afabf6870673"],
+      "reviews": [],
+      "createdAt": "2017-12-03T00:00:00",
+      "updatedAt": "2018-06-28T00:00:00",
+      "rating": null
+    },
+    {
+      "id": "e921e871-4582-4726-bf70-57c9fd48d54c",
+      "name": "Classic Loafers",
+      "slug": "classic-loafers-24",
+      "description": "Experience the unique style and comfort of our classic loafers.",
+      "price": 4750,
+      "colors": [
+        "b94cb2a9-b49b-479f-ad89-22039b8ddcb1",
+        "b94cb2a9-b49b-479f-ad89-22039b8ddcb1"
+      ],
+      "sizes": [
+        "71c0daf1-9013-4531-afd5-12197bfbfca2",
+        "a73a7c9d-26b3-4d99-aa17-bbef404ff8aa"
+      ],
+      "categories": ["7376385e-7ef0-4425-a429-2058ca725683"],
+      "collections": [
+        "493bf8cb-1b68-4d14-92e8-06e8cbcf660a",
+        "4335d2cd-cd4c-495c-bc1f-ad9cc625001f"
+      ],
+      "images": ["b29f19ef-06d4-4c20-9df4-fd5e4bc229ba"],
+      "reviews": [],
+      "createdAt": "2007-09-19T00:00:00",
+      "updatedAt": "2008-05-21T00:00:00",
+      "rating": null
+    },
+    {
+      "id": "8b51272a-f90c-4192-b0f6-05eea981e418",
+      "name": "Timeless Wrist Watch",
+      "slug": "timeless-wrist-watch-25",
+      "description": "Experience the unique style and comfort of our timeless wrist watch.",
+      "price": 16520,
+      "colors": [
+        "b94cb2a9-b49b-479f-ad89-22039b8ddcb1",
+        "7edf7aac-7f70-4939-a4dc-4b21d29097f4"
+      ],
+      "sizes": [
+        "2ccf2b39-ad56-425f-9521-7dc9007ed414",
+        "71c0daf1-9013-4531-afd5-12197bfbfca2",
+        "7a60bc41-f3eb-4cfa-8631-5799cd5078a2",
+        "a8d1857f-f50b-47e4-b74e-5b8d4216b277",
+        "7a60bc41-f3eb-4cfa-8631-5799cd5078a2"
+      ],
+      "categories": ["f65351ba-f17c-4dbd-921f-da8c4e656108"],
+      "collections": ["4335d2cd-cd4c-495c-bc1f-ad9cc625001f"],
+      "images": ["bd97f1cd-c5da-497f-9c08-7614cae9b926"],
+      "reviews": [],
+      "createdAt": "2022-05-11T00:00:00",
+      "updatedAt": "2023-04-15T00:00:00",
+      "rating": null
+    },
+    {
+      "id": "5494f801-1fc1-4e15-be25-d9a3c653ead9",
+      "name": "Stylish Sunglasses",
+      "slug": "stylish-sunglasses-26",
+      "description": "Experience the unique style and comfort of our stylish sunglasses.",
+      "price": 9240,
+      "colors": [
+        "3d19c310-11be-422f-ba66-557c77629913",
+        "d94bb79f-2dae-4da1-8279-a20610165ced"
+      ],
+      "sizes": ["2ccf2b39-ad56-425f-9521-7dc9007ed414"],
+      "categories": ["f65351ba-f17c-4dbd-921f-da8c4e656108"],
+      "collections": ["255b004d-10ea-4485-bc18-3b6b11997216"],
+      "images": ["be8c9cb1-3f28-4f75-be3a-3b511cc3b026"],
+      "reviews": [],
+      "createdAt": "2002-01-31T00:00:00",
+      "updatedAt": "2002-05-13T00:00:00",
+      "rating": null
+    },
+    {
+      "id": "81c23008-ed7d-451b-a03d-98aa63520c0b",
+      "name": "Durable Leather Belt",
+      "slug": "durable-leather-belt-27",
+      "description": "Experience the unique style and comfort of our durable leather belt.",
+      "price": 5880,
+      "colors": ["b3fac8ca-5232-4c03-9c80-a63b2bd1339b"],
+      "sizes": [
+        "71c0daf1-9013-4531-afd5-12197bfbfca2",
+        "a73a7c9d-26b3-4d99-aa17-bbef404ff8aa",
+        "7a60bc41-f3eb-4cfa-8631-5799cd5078a2",
+        "2ccf2b39-ad56-425f-9521-7dc9007ed414",
+        "7a60bc41-f3eb-4cfa-8631-5799cd5078a2"
+      ],
+      "categories": ["f65351ba-f17c-4dbd-921f-da8c4e656108"],
+      "collections": ["493bf8cb-1b68-4d14-92e8-06e8cbcf660a"],
+      "images": ["4b60e789-a259-49ea-9450-dc1c8abc7d5d"],
+      "reviews": [],
+      "createdAt": "2016-12-13T00:00:00",
+      "updatedAt": "2017-08-18T00:00:00",
+      "rating": null
+    },
+    {
+      "id": "fb023d7e-8c8c-45bb-bd23-64123c833d39",
+      "name": "Spacious Tote Bag",
+      "slug": "spacious-tote-bag-28",
+      "description": "Experience the unique style and comfort of our spacious tote bag.",
+      "price": 10650,
+      "colors": [
+        "174bfea0-5dd1-40c6-b3b0-72c0d1405f30",
+        "b3fac8ca-5232-4c03-9c80-a63b2bd1339b"
+      ],
+      "sizes": [
+        "7a60bc41-f3eb-4cfa-8631-5799cd5078a2",
+        "71c0daf1-9013-4531-afd5-12197bfbfca2",
+        "a73a7c9d-26b3-4d99-aa17-bbef404ff8aa",
+        "71c0daf1-9013-4531-afd5-12197bfbfca2"
+      ],
+      "categories": ["f65351ba-f17c-4dbd-921f-da8c4e656108"],
+      "collections": ["b6ec77e6-0c5e-4a4d-bd35-84ebb557f517"],
+      "images": ["9de6eb2f-85d0-4469-99ad-9e2af0cdd643"],
+      "reviews": [],
+      "createdAt": "2001-04-20T00:00:00",
+      "updatedAt": "2001-10-19T00:00:00",
+      "rating": null
+    },
+    {
+      "id": "74d2d69c-2d63-41be-98e1-8078e9b3830d",
+      "name": "Evening Clutch",
+      "slug": "evening-clutch-29",
+      "description": "Experience the unique style and comfort of our evening clutch.",
+      "price": 9320,
+      "colors": ["795edbc0-a641-4512-bdf5-b6ec54af69ae"],
+      "sizes": [
+        "a8d1857f-f50b-47e4-b74e-5b8d4216b277",
+        "a73a7c9d-26b3-4d99-aa17-bbef404ff8aa",
+        "6d6f8322-6265-44aa-8ae9-5ed404acfce2",
+        "71c0daf1-9013-4531-afd5-12197bfbfca2"
+      ],
+      "categories": ["f65351ba-f17c-4dbd-921f-da8c4e656108"],
+      "collections": [
+        "493bf8cb-1b68-4d14-92e8-06e8cbcf660a",
+        "4335d2cd-cd4c-495c-bc1f-ad9cc625001f"
+      ],
+      "images": ["a75b1e25-74f9-421a-a15d-bfec77db027d"],
+      "reviews": [],
+      "createdAt": "2011-06-05T00:00:00",
+      "updatedAt": "2012-03-18T00:00:00",
+      "rating": null
+    },
+    {
+      "id": "b329590a-9779-4b53-9632-49478c524eff",
+      "name": "Soft Cardigan",
+      "slug": "soft-cardigan-30",
+      "description": "Experience the unique style and comfort of our soft cardigan.",
+      "price": 5550,
+      "colors": ["b94cb2a9-b49b-479f-ad89-22039b8ddcb1"],
+      "sizes": [
+        "6d6f8322-6265-44aa-8ae9-5ed404acfce2",
+        "7a60bc41-f3eb-4cfa-8631-5799cd5078a2",
+        "71c0daf1-9013-4531-afd5-12197bfbfca2"
+      ],
+      "categories": ["55a2c922-b6f7-4b17-9f69-1bbe2751d574"],
+      "collections": ["7b334bdf-e14f-41cf-8fea-c4654d5df370"],
+      "images": ["0c005377-627d-496e-a1aa-28ccce67895f"],
+      "reviews": [],
+      "createdAt": "2003-10-29T00:00:00",
+      "updatedAt": "2004-02-14T00:00:00",
+      "rating": null
+    },
+    {
+      "id": "af97bddc-180b-496c-9d7d-782a4c39142f",
+      "name": "Insulated Puffer Jacket",
+      "slug": "insulated-puffer-jacket-31",
+      "description": "Experience the unique style and comfort of our insulated puffer jacket.",
+      "price": 9210,
+      "colors": [
+        "174bfea0-5dd1-40c6-b3b0-72c0d1405f30",
+        "174bfea0-5dd1-40c6-b3b0-72c0d1405f30",
+        "b3fac8ca-5232-4c03-9c80-a63b2bd1339b"
+      ],
+      "sizes": [
+        "6d6f8322-6265-44aa-8ae9-5ed404acfce2",
+        "2ccf2b39-ad56-425f-9521-7dc9007ed414",
+        "71c0daf1-9013-4531-afd5-12197bfbfca2",
+        "71c0daf1-9013-4531-afd5-12197bfbfca2"
+      ],
+      "categories": [
+        "c50663dc-1e6d-46f5-a6a5-965473669740",
+        "25fedded-8263-4d02-9f0c-6f199179a5df"
+      ],
+      "collections": ["98258a37-5120-4965-b60b-90c245e73c39"],
+      "images": ["93cb1f02-5607-4107-8b0c-2721db9f5e8c"],
+      "reviews": [],
+      "createdAt": "2017-11-12T00:00:00",
+      "updatedAt": "2018-06-30T00:00:00",
+      "rating": null
+    },
+    {
+      "id": "5d6c5aa0-5a02-406a-a53e-d04639467c83",
+      "name": "Waterproof Raincoat",
+      "slug": "waterproof-raincoat-32",
+      "description": "Experience the unique style and comfort of our waterproof raincoat.",
+      "price": 12300,
+      "colors": [
+        "8bc92688-9d1f-4cd2-aab5-5bcf73b5ef96",
+        "ef14f375-b851-453d-a446-31f5599e25b7"
+      ],
+      "sizes": [
+        "a73a7c9d-26b3-4d99-aa17-bbef404ff8aa",
+        "a73a7c9d-26b3-4d99-aa17-bbef404ff8aa",
+        "6d6f8322-6265-44aa-8ae9-5ed404acfce2",
+        "a73a7c9d-26b3-4d99-aa17-bbef404ff8aa"
+      ],
+      "categories": [
+        "c50663dc-1e6d-46f5-a6a5-965473669740",
+        "25fedded-8263-4d02-9f0c-6f199179a5df"
+      ],
+      "collections": ["4b06fdc4-39ac-4878-8f08-7df01e8ca9f9"],
+      "images": ["ccd52b69-678a-4ad2-a471-2a4627765148"],
+      "reviews": [],
+      "createdAt": "2011-08-07T00:00:00",
+      "updatedAt": "2011-11-09T00:00:00",
+      "rating": null
+    },
+    {
+      "id": "1184dd20-5b23-4ecb-85aa-57f7ce49554c",
+      "name": "Fleece Pullover",
+      "slug": "fleece-pullover-33",
+      "description": "Experience the unique style and comfort of our fleece pullover.",
+      "price": 8380,
+      "colors": [
+        "b94cb2a9-b49b-479f-ad89-22039b8ddcb1",
+        "3d19c310-11be-422f-ba66-557c77629913"
+      ],
+      "sizes": [
+        "7a60bc41-f3eb-4cfa-8631-5799cd5078a2",
+        "a8d1857f-f50b-47e4-b74e-5b8d4216b277",
+        "a73a7c9d-26b3-4d99-aa17-bbef404ff8aa",
+        "a8d1857f-f50b-47e4-b74e-5b8d4216b277"
+      ],
+      "categories": ["55a2c922-b6f7-4b17-9f69-1bbe2751d574"],
+      "collections": [
+        "98258a37-5120-4965-b60b-90c245e73c39",
+        "b6ec77e6-0c5e-4a4d-bd35-84ebb557f517"
+      ],
+      "images": ["1549a800-667a-4109-b669-46ebf4579f2f"],
+      "reviews": [],
+      "createdAt": "2011-03-19T00:00:00",
+      "updatedAt": "2011-11-10T00:00:00",
+      "rating": null
+    },
+    {
+      "id": "d2ec1ecb-6733-4128-8202-c11d9d11a760",
+      "name": "Sleek Turtleneck",
+      "slug": "sleek-turtleneck-34",
+      "description": "Experience the unique style and comfort of our sleek turtleneck.",
+      "price": 6900,
+      "colors": [
+        "7edf7aac-7f70-4939-a4dc-4b21d29097f4",
+        "7edf7aac-7f70-4939-a4dc-4b21d29097f4"
+      ],
+      "sizes": [
+        "2ccf2b39-ad56-425f-9521-7dc9007ed414",
+        "a73a7c9d-26b3-4d99-aa17-bbef404ff8aa",
+        "71c0daf1-9013-4531-afd5-12197bfbfca2",
+        "7a60bc41-f3eb-4cfa-8631-5799cd5078a2",
+        "71c0daf1-9013-4531-afd5-12197bfbfca2"
+      ],
+      "categories": ["55a2c922-b6f7-4b17-9f69-1bbe2751d574"],
+      "collections": [
+        "bbfd1021-2b96-4a62-9786-27ed41f9a4cc",
+        "38a76a3f-b499-40c4-a806-be7acd54ec55"
+      ],
+      "images": ["56b03e2d-78e1-47e9-9ea2-3cc22bc280d8"],
+      "reviews": [],
+      "createdAt": "2000-10-03T00:00:00",
+      "updatedAt": "2001-09-03T00:00:00",
+      "rating": null
+    },
+    {
+      "id": "826e61fb-de57-414f-a302-06473e98167d",
+      "name": "Trendy Mesh Top",
+      "slug": "trendy-mesh-top-35",
+      "description": "Experience the unique style and comfort of our trendy mesh top.",
+      "price": 7480,
+      "colors": [
+        "b3fac8ca-5232-4c03-9c80-a63b2bd1339b",
+        "ef14f375-b851-453d-a446-31f5599e25b7",
+        "795edbc0-a641-4512-bdf5-b6ec54af69ae"
+      ],
+      "sizes": [
+        "a73a7c9d-26b3-4d99-aa17-bbef404ff8aa",
+        "7a60bc41-f3eb-4cfa-8631-5799cd5078a2",
+        "6d6f8322-6265-44aa-8ae9-5ed404acfce2"
+      ],
+      "categories": ["dbe738f4-9201-403f-b88c-c6cd214b3b8b"],
+      "collections": ["4335d2cd-cd4c-495c-bc1f-ad9cc625001f"],
+      "images": ["fb5d919b-9f60-420b-ae5e-592216ff3be7"],
+      "reviews": [],
+      "createdAt": "2014-01-21T00:00:00",
+      "updatedAt": "2014-03-09T00:00:00",
+      "rating": null
+    },
+    {
+      "id": "891dc7cc-f6af-4dfb-8531-968d3bf86f2d",
+      "name": "Floral Midi Dress",
+      "slug": "floral-midi-dress-36",
+      "description": "Experience the unique style and comfort of our floral midi dress.",
+      "price": 9700,
+      "colors": ["3d19c310-11be-422f-ba66-557c77629913"],
+      "sizes": [
+        "a73a7c9d-26b3-4d99-aa17-bbef404ff8aa",
+        "a8d1857f-f50b-47e4-b74e-5b8d4216b277"
+      ],
+      "categories": ["c771152c-f4ef-4a50-9cbb-5bc5fc67d23b"],
+      "collections": ["255b004d-10ea-4485-bc18-3b6b11997216"],
+      "images": ["8320b35b-cea4-474e-a7f2-df325fdf3048"],
+      "reviews": [],
+      "createdAt": "2016-01-30T00:00:00",
+      "updatedAt": "2016-03-18T00:00:00",
+      "rating": null
+    },
+    {
+      "id": "829bf470-c6ce-463b-8840-9802b1feb856",
+      "name": "Tailored Cropped Pants",
+      "slug": "tailored-cropped-pants-37",
+      "description": "Experience the unique style and comfort of our tailored cropped pants.",
+      "price": 5290,
+      "colors": [
+        "174bfea0-5dd1-40c6-b3b0-72c0d1405f30",
+        "795edbc0-a641-4512-bdf5-b6ec54af69ae",
+        "7edf7aac-7f70-4939-a4dc-4b21d29097f4"
+      ],
+      "sizes": ["a8d1857f-f50b-47e4-b74e-5b8d4216b277"],
+      "categories": ["1ddd14a9-d6d7-41be-95c1-e185e031f9f8"],
+      "collections": ["bbfd1021-2b96-4a62-9786-27ed41f9a4cc"],
+      "images": ["8734df4d-735f-48f3-97cf-bdd354148fe4"],
+      "reviews": [],
+      "createdAt": "2003-05-08T00:00:00",
+      "updatedAt": "2003-12-21T00:00:00",
+      "rating": null
+    },
+    {
+      "id": "540ba712-d60b-4318-a2e4-01e06ad35491",
+      "name": "One-piece Jumpsuit",
+      "slug": "one-piece-jumpsuit-38",
+      "description": "Experience the unique style and comfort of our one-piece jumpsuit.",
+      "price": 8690,
+      "colors": [
+        "795edbc0-a641-4512-bdf5-b6ec54af69ae",
+        "8bc92688-9d1f-4cd2-aab5-5bcf73b5ef96"
+      ],
+      "sizes": [
+        "7a60bc41-f3eb-4cfa-8631-5799cd5078a2",
+        "71c0daf1-9013-4531-afd5-12197bfbfca2",
+        "2ccf2b39-ad56-425f-9521-7dc9007ed414"
+      ],
+      "categories": ["25fedded-8263-4d02-9f0c-6f199179a5df"],
+      "collections": ["4b06fdc4-39ac-4878-8f08-7df01e8ca9f9"],
+      "images": ["83ea4e70-d08b-4154-9d2c-78c344a95018"],
+      "reviews": [],
+      "createdAt": "2001-11-28T00:00:00",
+      "updatedAt": "2002-10-20T00:00:00",
+      "rating": null
+    },
+    {
+      "id": "a97575c4-32e9-4fc1-bc83-9538e7e1bc04",
+      "name": "Casual Romper",
+      "slug": "casual-romper-39",
+      "description": "Experience the unique style and comfort of our casual romper.",
+      "price": 7820,
+      "colors": [
+        "8bc92688-9d1f-4cd2-aab5-5bcf73b5ef96",
+        "c020b0d3-9c9d-4bf9-a388-cf59b453b66c"
+      ],
+      "sizes": [
+        "a73a7c9d-26b3-4d99-aa17-bbef404ff8aa",
+        "2ccf2b39-ad56-425f-9521-7dc9007ed414",
+        "a8d1857f-f50b-47e4-b74e-5b8d4216b277"
+      ],
+      "categories": ["25fedded-8263-4d02-9f0c-6f199179a5df"],
+      "collections": [
+        "bbfd1021-2b96-4a62-9786-27ed41f9a4cc",
+        "255b004d-10ea-4485-bc18-3b6b11997216"
+      ],
+      "images": ["3423a8e2-0dd9-4133-a3d1-088a0ae912c9"],
+      "reviews": [],
+      "createdAt": "2015-09-01T00:00:00",
+      "updatedAt": "2016-08-19T00:00:00",
+      "rating": null
+    },
+    {
+      "id": "8507ef88-3722-4b76-a502-3414f82f7162",
+      "name": "Formal Bow Tie",
+      "slug": "formal-bow-tie-40",
+      "description": "Experience the unique style and comfort of our formal bow tie.",
+      "price": 8000,
+      "colors": ["c020b0d3-9c9d-4bf9-a388-cf59b453b66c"],
+      "sizes": ["2ccf2b39-ad56-425f-9521-7dc9007ed414"],
+      "categories": ["f65351ba-f17c-4dbd-921f-da8c4e656108"],
+      "collections": ["493bf8cb-1b68-4d14-92e8-06e8cbcf660a"],
+      "images": ["a5dc22f6-a31f-4991-9374-100aaedecc80"],
+      "reviews": [],
+      "createdAt": "2017-04-12T00:00:00",
+      "updatedAt": "2017-07-04T00:00:00",
+      "rating": null
+    },
+    {
+      "id": "6c6fcab8-eaac-4a91-a539-39cc56c16f21",
+      "name": "Elegant Cufflinks",
+      "slug": "elegant-cufflinks-41",
+      "description": "Experience the unique style and comfort of our elegant cufflinks.",
+      "price": 17200,
+      "colors": ["ef14f375-b851-453d-a446-31f5599e25b7"],
+      "sizes": [
+        "a73a7c9d-26b3-4d99-aa17-bbef404ff8aa",
+        "7a60bc41-f3eb-4cfa-8631-5799cd5078a2"
+      ],
+      "categories": ["f65351ba-f17c-4dbd-921f-da8c4e656108"],
+      "collections": [
+        "493bf8cb-1b68-4d14-92e8-06e8cbcf660a",
+        "4335d2cd-cd4c-495c-bc1f-ad9cc625001f"
+      ],
+      "images": ["1ec1538e-7bf3-4177-bbec-5169c5b4bef7"],
+      "reviews": [],
+      "createdAt": "2002-06-23T00:00:00",
+      "updatedAt": "2003-04-28T00:00:00",
+      "rating": null
+    },
+    {
+      "id": "4a142d40-cc4e-4735-aa9a-4c32a96ac165",
+      "name": "Luxury Leather Gloves",
+      "slug": "luxury-leather-gloves-42",
+      "description": "Experience the unique style and comfort of our luxury leather gloves.",
+      "price": 14280,
+      "colors": ["7edf7aac-7f70-4939-a4dc-4b21d29097f4"],
+      "sizes": [
+        "7a60bc41-f3eb-4cfa-8631-5799cd5078a2",
+        "2ccf2b39-ad56-425f-9521-7dc9007ed414",
+        "6d6f8322-6265-44aa-8ae9-5ed404acfce2"
+      ],
+      "categories": ["f65351ba-f17c-4dbd-921f-da8c4e656108"],
+      "collections": [
+        "98258a37-5120-4965-b60b-90c245e73c39",
+        "4335d2cd-cd4c-495c-bc1f-ad9cc625001f"
+      ],
+      "images": ["df1dc1cf-effd-4669-86ea-1ce2a2b070ce"],
+      "reviews": [],
+      "createdAt": "2020-10-31T00:00:00",
+      "updatedAt": "2021-01-08T00:00:00",
+      "rating": null
+    },
+    {
+      "id": "5455cda4-8f99-4208-917d-2b57d77137cd",
+      "name": "Warm Wool Scarf",
+      "slug": "warm-wool-scarf-43",
+      "description": "Experience the unique style and comfort of our warm wool scarf.",
+      "price": 9320,
+      "colors": [
+        "7edf7aac-7f70-4939-a4dc-4b21d29097f4",
+        "7edf7aac-7f70-4939-a4dc-4b21d29097f4",
+        "174bfea0-5dd1-40c6-b3b0-72c0d1405f30"
+      ],
+      "sizes": [
+        "2ccf2b39-ad56-425f-9521-7dc9007ed414",
+        "7a60bc41-f3eb-4cfa-8631-5799cd5078a2",
+        "a8d1857f-f50b-47e4-b74e-5b8d4216b277",
+        "a73a7c9d-26b3-4d99-aa17-bbef404ff8aa"
+      ],
+      "categories": ["25fedded-8263-4d02-9f0c-6f199179a5df"],
+      "collections": ["98258a37-5120-4965-b60b-90c245e73c39"],
+      "images": ["60b14988-77d3-49f1-b59f-718abcb2a9b8"],
+      "reviews": [],
+      "createdAt": "2001-08-04T00:00:00",
+      "updatedAt": "2001-08-23T00:00:00",
+      "rating": null
+    },
+    {
+      "id": "3806d208-122b-47d2-ae18-f2375b8a1ddd",
+      "name": "Comfy Knee Socks",
+      "slug": "comfy-knee-socks-44",
+      "description": "Experience the unique style and comfort of our comfy knee socks.",
+      "price": 4980,
+      "colors": ["3d19c310-11be-422f-ba66-557c77629913"],
+      "sizes": [
+        "a8d1857f-f50b-47e4-b74e-5b8d4216b277",
+        "71c0daf1-9013-4531-afd5-12197bfbfca2"
+      ],
+      "categories": ["f65351ba-f17c-4dbd-921f-da8c4e656108"],
+      "collections": [
+        "bbfd1021-2b96-4a62-9786-27ed41f9a4cc",
+        "38a76a3f-b499-40c4-a806-be7acd54ec55"
+      ],
+      "images": ["800bbdd1-4c02-49f7-8af6-b4e67bc932df"],
+      "reviews": [],
+      "createdAt": "2000-12-08T00:00:00",
+      "updatedAt": "2000-12-13T00:00:00",
+      "rating": null
+    },
+    {
+      "id": "ac166233-f219-4602-815b-375e01ddd508",
+      "name": "Sporty Baseball Cap",
+      "slug": "sporty-baseball-cap-45",
+      "description": "Experience the unique style and comfort of our sporty baseball cap.",
+      "price": 3220,
+      "colors": [
+        "b94cb2a9-b49b-479f-ad89-22039b8ddcb1",
+        "174bfea0-5dd1-40c6-b3b0-72c0d1405f30"
+      ],
+      "sizes": ["a73a7c9d-26b3-4d99-aa17-bbef404ff8aa"],
+      "categories": ["9f6ee718-cbe1-4491-bdf8-00f6a55c5e74"],
+      "collections": ["7482be93-6e95-4fcd-8f4b-10b3e733afd1"],
+      "images": ["a98b98da-c83a-4688-93b3-a38e32a76282"],
+      "reviews": [],
+      "createdAt": "2004-01-01T00:00:00",
+      "updatedAt": "2004-01-21T00:00:00",
+      "rating": null
+    },
+    {
+      "id": "7fbb40df-05fc-4abb-bd3a-006b219be759",
+      "name": "Flexible Leggings",
+      "slug": "flexible-leggings-46",
+      "description": "Experience the unique style and comfort of our flexible leggings.",
+      "price": 7000,
+      "colors": [
+        "8bc92688-9d1f-4cd2-aab5-5bcf73b5ef96",
+        "8bc92688-9d1f-4cd2-aab5-5bcf73b5ef96",
+        "8bc92688-9d1f-4cd2-aab5-5bcf73b5ef96"
+      ],
+      "sizes": ["6d6f8322-6265-44aa-8ae9-5ed404acfce2"],
+      "categories": ["9f6ee718-cbe1-4491-bdf8-00f6a55c5e74"],
+      "collections": ["7482be93-6e95-4fcd-8f4b-10b3e733afd1"],
+      "images": ["c8672397-cb1e-4678-9239-315ab3860c88"],
+      "reviews": [],
+      "createdAt": "2014-07-28T00:00:00",
+      "updatedAt": "2015-04-23T00:00:00",
+      "rating": null
+    },
+    {
+      "id": "1d06299a-a243-4a40-bd40-de151aa486d2",
+      "name": "Cycling Shorts",
+      "slug": "cycling-shorts-47",
+      "description": "Experience the unique style and comfort of our cycling shorts.",
+      "price": 7830,
+      "colors": [
+        "d94bb79f-2dae-4da1-8279-a20610165ced",
+        "b94cb2a9-b49b-479f-ad89-22039b8ddcb1",
+        "c020b0d3-9c9d-4bf9-a388-cf59b453b66c"
+      ],
+      "sizes": [
+        "71c0daf1-9013-4531-afd5-12197bfbfca2",
+        "2ccf2b39-ad56-425f-9521-7dc9007ed414"
+      ],
+      "categories": [
+        "e2b37d7f-b0a1-4498-a05f-99c845e1117e",
+        "9f6ee718-cbe1-4491-bdf8-00f6a55c5e74"
+      ],
+      "collections": ["7482be93-6e95-4fcd-8f4b-10b3e733afd1"],
+      "images": ["f2aafb19-4a81-43af-b5be-c3690ec890ff"],
+      "reviews": [],
+      "createdAt": "2011-06-17T00:00:00",
+      "updatedAt": "2011-12-24T00:00:00",
+      "rating": null
+    },
+    {
+      "id": "d7e9fb34-10b1-41ae-a0ee-ebed6f5ee81f",
+      "name": "Breathable Tank Top",
+      "slug": "breathable-tank-top-48",
+      "description": "Experience the unique style and comfort of our breathable tank top.",
+      "price": 7600,
+      "colors": [
+        "ef14f375-b851-453d-a446-31f5599e25b7",
+        "d94bb79f-2dae-4da1-8279-a20610165ced",
+        "8bc92688-9d1f-4cd2-aab5-5bcf73b5ef96"
+      ],
+      "sizes": [
+        "71c0daf1-9013-4531-afd5-12197bfbfca2",
+        "a73a7c9d-26b3-4d99-aa17-bbef404ff8aa",
+        "7a60bc41-f3eb-4cfa-8631-5799cd5078a2",
+        "7a60bc41-f3eb-4cfa-8631-5799cd5078a2",
+        "7a60bc41-f3eb-4cfa-8631-5799cd5078a2"
+      ],
+      "categories": ["dbe738f4-9201-403f-b88c-c6cd214b3b8b"],
+      "collections": ["bbfd1021-2b96-4a62-9786-27ed41f9a4cc"],
+      "images": ["90ae2c3b-4402-4b43-bba4-a1d9b9979999"],
+      "reviews": [],
+      "createdAt": "2016-11-28T00:00:00",
+      "updatedAt": "2017-04-08T00:00:00",
+      "rating": null
+    },
+    {
+      "id": "66544a35-8227-4505-bf1a-5581e243be29",
+      "name": "Layering Vest",
+      "slug": "layering-vest-49",
+      "description": "Experience the unique style and comfort of our layering vest.",
+      "price": 7390,
+      "colors": [
+        "795edbc0-a641-4512-bdf5-b6ec54af69ae",
+        "c020b0d3-9c9d-4bf9-a388-cf59b453b66c",
+        "d94bb79f-2dae-4da1-8279-a20610165ced"
+      ],
+      "sizes": ["6d6f8322-6265-44aa-8ae9-5ed404acfce2"],
+      "categories": [
+        "c50663dc-1e6d-46f5-a6a5-965473669740",
+        "25fedded-8263-4d02-9f0c-6f199179a5df"
+      ],
+      "collections": ["7b334bdf-e14f-41cf-8fea-c4654d5df370"],
+      "images": ["4300c460-a31f-4c46-b2d7-ba9d0031f4e6"],
+      "reviews": [],
+      "createdAt": "2018-07-25T00:00:00",
+      "updatedAt": "2018-08-04T00:00:00",
+      "rating": null
+    }
+  ]
+}

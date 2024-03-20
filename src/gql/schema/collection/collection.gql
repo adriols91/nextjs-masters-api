@@ -1,0 +1,15 @@
+type Collection {
+  id: ID!
+  name: String!
+  slug: String!
+  description: String!
+  image: Image
+  products: [Product!]!
+  createdAt: DateTime!
+  updatedAt: DateTime!
+}
+
+type CollectionConnection {
+  items: [Collection!]!
+  totalCount: Int!
+}

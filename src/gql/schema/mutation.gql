@@ -1,0 +1,12 @@
+type Mutation {
+  cartCreate(input: CartCreateInput): CartCreatePayload!
+
+  itemCreate(input: ItemCreateInput!): ItemCreatePayload!
+  itemUpdate(input: ItemUpdateInput!): ItemUpdatePayload!
+  itemDelete(id: ID!): ItemDeletePayload!
+
+  orderCreate(input: OrderCreateInput!): OrderCreatePayload!
+  orderUpdate(input: OrderUpdateInput!): OrderUpdatePayload!
+
+  reviewCreate(input: ReviewCreateInput!): ReviewCreatePayload!
+}

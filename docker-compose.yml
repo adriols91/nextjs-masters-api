@@ -1,0 +1,33 @@
+version: "3"
+services:
+  dev:
+    build: .
+    env_file:
+      - .env
+    environment:
+      FASTIFY_HOST: 0.0.0.0
+      FASTIFY_PORT: 4000
+      TYPESENSE_HOST: typesense
+      FORCE_REINDEX: "true"
+    volumes:
+      - .:/usr/src/app
+    ports:
+      - 4000:4000
+    depends_on:
+      - typesense
+
+  typesense:
+    image: typesense/typesense:0.25.2
+    command: --data-dir /data
+    env_file:
+      - .env
+    environment:
+      TYPESENSE_HOST: 0.0.0.0
+      TYPESENSE_PORT: 8108
+    volumes:
+      - typesense-data:/data
+    ports:
+      - 8108:8108
+
+volumes:
+  typesense-data:

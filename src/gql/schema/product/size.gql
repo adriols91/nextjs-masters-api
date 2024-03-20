@@ -1,0 +1,6 @@
+type Size {
+  id: ID!
+  name: String!
+  createdAt: DateTime!
+  updatedAt: DateTime!
+}

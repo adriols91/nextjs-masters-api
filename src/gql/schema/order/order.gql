@@ -1,0 +1,38 @@
+enum OrderStatus {
+  CANCELLED
+  CREATED
+  FULFILLED
+  PAID
+}
+
+type Order {
+  id: ID!
+  lines: JSON!
+  totalAmount: Int!
+  status: OrderStatus!
+  createdAt: DateTime!
+  updatedAt: DateTime!
+}
+
+type OrderConnection {
+  items: [Order!]!
+  totalCount: Int!
+}
+
+input OrderCreateInput {
+  lines: JSON!
+  totalAmount: Int!
+}
+
+input OrderUpdateInput {
+  id: ID!
+  status: OrderStatus!
+}
+
+type OrderCreatePayload {
+  order: Order
+}
+
+type OrderUpdatePayload {
+  order: Order
+}

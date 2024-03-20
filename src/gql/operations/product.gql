@@ -1,0 +1,59 @@
+query getProducts {
+  products(limit: 10, offset: 0) {
+    items {
+      id
+      name
+      price
+      rating
+      description
+      colors {
+        id
+        name
+        createdAt
+        updatedAt
+      }
+      sizes {
+        id
+        name
+        createdAt
+        updatedAt
+      }
+      categories {
+        id
+        name
+        slug
+        description
+        createdAt
+        updatedAt
+      }
+      collections {
+        id
+        name
+        slug
+        description
+        createdAt
+        updatedAt
+      }
+      images(limit: 1) {
+        id
+        url
+        alt
+        createdAt
+        updatedAt
+      }
+      reviews(limit: 1) {
+        id
+        author
+        email
+        title
+        description
+        rating
+        createdAt
+        updatedAt
+      }
+      createdAt
+      updatedAt
+    }
+    totalCount
+  }
+}

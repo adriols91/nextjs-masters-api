@@ -1,0 +1,29 @@
+type Item {
+  id: ID!
+  product: Product!
+  quantity: Int!
+}
+
+input ItemCreateInput {
+  cartId: ID!
+  productId: ID!
+  quantity: Int!
+}
+
+input ItemUpdateInput {
+  id: ID!
+  quantity: Int!
+}
+
+type ItemCreatePayload {
+  item: Item!
+}
+
+type ItemUpdatePayload {
+  item: Item!
+}
+
+type ItemDeletePayload {
+  id: ID!
+  success: Boolean!
+}
