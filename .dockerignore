@@ -1,0 +1,10 @@
+# flyctl launch added from .gitignore
+**/node_modules
+**/.env
+
+# flyctl launch added from node_modules/.pnpm/loglevel@1.9.1/node_modules/loglevel/vendor/grunt-template-jasmine-requirejs/tasks/.gitignore
+# Ignore everything in this directory
+node_modules/.pnpm/loglevel@1.9.1/node_modules/loglevel/vendor/grunt-template-jasmine-requirejs/tasks/**/*
+# Except this file
+!node_modules/.pnpm/loglevel@1.9.1/node_modules/loglevel/vendor/grunt-template-jasmine-requirejs/tasks/**/.gitignore
+fly.toml

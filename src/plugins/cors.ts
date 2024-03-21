@@ -4,7 +4,10 @@ import fp from "fastify-plugin";
 
 const corsPlugin: FastifyPluginAsync = fp(async (app) => {
   app.register(cors, {
-    origin: process.env.NODE_ENV === "development" ? "*" : "",
+    origin:
+      process.env.NODE_ENV === "development"
+        ? "*"
+        : "https://nextjs-masters-web.fly.dev",
     methods: ["GET", "POST", "OPTIONS"],
   });
 

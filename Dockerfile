@@ -1,19 +1,17 @@
-FROM nikolaik/python-nodejs:latest
+FROM node:20-alpine
 
 WORKDIR /usr/src/app
 
-COPY package.json pnpm-lock.yaml requirements.txt ./
+COPY package.json pnpm-lock.yaml ./
 
 RUN npm install -g pnpm
 
 RUN pnpm install
 
-RUN pip install -r requirements.txt
-
 COPY . .
+
+RUN pnpm prisma generate
 
 EXPOSE 4000
 
-ENTRYPOINT ["./docker-entrypoint.sh"]
-
-CMD ["pnpm", "dev"]
+CMD ["pnpm", "start"]
